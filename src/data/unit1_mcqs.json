@@ -1,0 +1,3632 @@
+[
+  {
+    "question_no": 1,
+    "question": "What does IPR stand for?",
+    "options": {
+      "A": "Intellectual Property Rights",
+      "B": "International Public Relations",
+      "C": "Internal Proprietary Regulation",
+      "D": "International Policy Review"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 2,
+    "question": "What is the origin of the word \"Patent\"?",
+    "options": {
+      "A": "Latin word \"Patene\"",
+      "B": "French word \"Patente\"",
+      "C": "Old English word \"P\u00e6tent\"",
+      "D": "Greek word \"Patentas\""
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 3,
+    "question": "What is the primary objective of the Information Technology Act, 2000 (IT Act)?",
+    "options": {
+      "A": "To provide legal recognition to electronic transactions",
+      "B": "To regulate internet content",
+      "C": "To regulate telecom services",
+      "D": "To control computer hardware imports"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 4,
+    "question": "Which of the following can be considered a trade secret?",
+    "options": {
+      "A": "A recipe",
+      "B": "Company's logo",
+      "C": "Published book",
+      "D": "A Registered Trademark"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 5,
+    "question": "What does \"non-obviousness\" in a patent requirement mean?",
+    "options": {
+      "A": "The invention is not easily deduced by someone skilled in the field",
+      "B": "The invention is simple to understand",
+      "C": "The invention is legally protected",
+      "D": "The invention is hidden from public view"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 6,
+    "question": "What does Section 66 of the IT Act, 2000 pertain to?",
+    "options": {
+      "A": "Punishment for hacking",
+      "B": "Punishment for sending offensive messages",
+      "C": "Punishment for cyber terrorism",
+      "D": "Punishment for identity theft"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 7,
+    "question": "The Trade Secrets ensure \u2026\u2026\u2026.",
+    "options": {
+      "A": "Competitive Advantage",
+      "B": "Production and Marketing monopoly",
+      "C": "Business Ethics",
+      "D": "Employee Invention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 8,
+    "question": "Which of the following is an example of an arbitrary mark?",
+    "options": {
+      "A": "\"Apple\" for computers",
+      "B": "\"Kodak\" for cameras",
+      "C": "\"Sunny\" for heaters",
+      "D": "\"Sweet\" for chocolates"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 9,
+    "question": "What is 'cyber espionage'?",
+    "options": {
+      "A": "Unauthorized access and theft of confidential information for political or financial gain",
+      "B": "Attacking websites for fun",
+      "C": "Sending spam emails",
+      "D": "Creating malware for profit"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 10,
+    "question": "What is a certification mark?",
+    "options": {
+      "A": "A mark indicating compliance with standards",
+      "B": "A mark used to distinguish services",
+      "C": "A mark used by a specific group of enterprises",
+      "D": "A well-known mark"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 11,
+    "question": "Which of the following can be considered a non-traditional trademark?",
+    "options": {
+      "A": "A sound",
+      "B": "A word",
+      "C": "A logo",
+      "D": "A phrase"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 12,
+    "question": "Which of the following is NOT a function of a trademark?",
+    "options": {
+      "A": "Reducing the cost of production",
+      "B": "Advertising the product",
+      "C": "Identifying the product's origin",
+      "D": "Guaranteeing the product's quality"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 13,
+    "question": "Which of the following is NOT a reason for rejecting a trademark application?",
+    "options": {
+      "A": "The mark is fanciful",
+      "B": "The mark is descriptive",
+      "C": "The mark is generic",
+      "D": "The mark is deceptive"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 14,
+    "question": "What is an example of a suggestive mark?",
+    "options": {
+      "A": "\"Sunny\" for heaters",
+      "B": "\"Sweet\" for chocolates",
+      "C": "\"Kodak\" for cameras",
+      "D": "\"Apple\" for computers"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 15,
+    "question": "Which of the following is true about the registration of non-traditional trademarks?",
+    "options": {
+      "A": "They are often difficult to register",
+      "B": "They are easy to graphically represent",
+      "C": "They are more valuable than traditional trademarks",
+      "D": "They are not recognized by most countries"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 16,
+    "question": "What must be authorized under Form TM-48 in the trademark registration process?",
+    "options": {
+      "A": "The appointment of an attorney or agent",
+      "B": "The registration of the trademark",
+      "C": "The use of the trademark",
+      "D": "The payment of the registration fee"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 17,
+    "question": "What is copyright primarily available for?",
+    "options": {
+      "A": "Original literary, dramatic, musical, artistic work",
+      "B": "Unpublished works",
+      "C": "Scientific discoveries",
+      "D": "Ideas"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 18,
+    "question": "Under the Indian Copyright Act, how long is the term of protection for literary works?",
+    "options": {
+      "A": "The author\u2019s life plus 60 years",
+      "B": "100 years after the author's death",
+      "C": "50 years from the date of publication",
+      "D": "The author\u2019s life plus 70 years"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 19,
+    "question": "Which IP right is often used to protect the unique appearance or structure of a product?",
+    "options": {
+      "A": "Design Patent",
+      "B": "Trademark",
+      "C": "Copyright",
+      "D": "Patent"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 20,
+    "question": "What is a key requirement for an invention to be considered \"new\" or \"novel\"?",
+    "options": {
+      "A": "It must not be part of the prior art",
+      "B": "It must be based on existing technology",
+      "C": "It must have a practical application",
+      "D": "It must be easy to understand"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 21,
+    "question": "Which section of the IT Act, 2000 deals with the \u2018Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011\u2019?",
+    "options": {
+      "A": "Section 43A",
+      "B": "Section 44A",
+      "C": "Section 45A",
+      "D": "Section 46A"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 22,
+    "question": "What does copyright protect?",
+    "options": {
+      "A": "The expression of an idea",
+      "B": "The idea itself",
+      "C": "Methods and processes",
+      "D": "Scientific principles"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 23,
+    "question": "Which of the following is included under the definition of a computer program in the Copyright Act?",
+    "options": {
+      "A": "Source codes and object codes",
+      "B": "Hardware configurations",
+      "C": "Software installation manuals",
+      "D": "User interface designs"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 24,
+    "question": "Which of the following is an example of moral rights under copyright?",
+    "options": {
+      "A": "Right to claim authorship",
+      "B": "Right to sell the work",
+      "C": "Right to license the work",
+      "D": "Right to modify the work"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 25,
+    "question": "Which of the following categories is not protected by copyright?",
+    "options": {
+      "A": "Titles and short phrases",
+      "B": "Dramatic works",
+      "C": "Musical works",
+      "D": "Pantomimes"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 26,
+    "question": "What is true about Public Domain software?",
+    "options": {
+      "A": "It allows free modification and distribution",
+      "B": "It has strict copyright restrictions",
+      "C": "It requires a license for use",
+      "D": "It cannot be used commercially"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 27,
+    "question": "What is the primary difference between Freeware and Public Domain software?",
+    "options": {
+      "A": "Public Domain software has no copyright protection",
+      "B": "Public Domain software requires payment for use",
+      "C": "Freeware allows modification only with restrictions",
+      "D": "Freeware is not protected by copyright"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 28,
+    "question": "Which software category explicitly allows reverse engineering (decompiling) without permission?",
+    "options": {
+      "A": "Freeware",
+      "B": "Public Domain",
+      "C": "Commercial Software",
+      "D": "Shareware"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 29,
+    "question": "Under copyright law, what is an author\u2019s \"right of integrity\"?",
+    "options": {
+      "A": "The right to prevent alteration of the work",
+      "B": "The right to sell the work",
+      "C": "The right to modify the work",
+      "D": "The right to publish the work"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 30,
+    "question": "What does industrial design primarily refer to?",
+    "options": {
+      "A": "The ornamental or aesthetic aspects of a product",
+      "B": "The technical aspects of a product",
+      "C": "The functional features of a product",
+      "D": "The marketing strategy of a product"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 31,
+    "question": "Which of the following is not typically included in industrial design protection?",
+    "options": {
+      "A": "The technical function of a product",
+      "B": "The colour of a product",
+      "C": "The shape of a product",
+      "D": "The pattern of a product"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 32,
+    "question": "Which organization is responsible for granting patents in the United States?",
+    "options": {
+      "A": "USPTO (United States Patent and Trademark Office)",
+      "B": "African Patent Office",
+      "C": "WIPO (World Intellectual Property Organization)",
+      "D": "EPO (European Patent Office)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 33,
+    "question": "What is meant by \"capable of industrial application\"?",
+    "options": {
+      "A": "The invention must be useful and provide a practical benefit",
+      "B": "The invention must only be used in manufacturing",
+      "C": "The invention must be theoretical",
+      "D": "The invention must be aesthetically pleasing"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 34,
+    "question": "Under the IT Act, 2000, who can be considered as an \u2018Intermediary\u2019?",
+    "options": {
+      "A": "Internet Service Providers",
+      "B": "Government Agencies",
+      "C": "Banks",
+      "D": "All of these"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 35,
+    "question": "Industrial design can be applied to which of the following products?",
+    "options": {
+      "A": "All of these",
+      "B": "Medical instruments",
+      "C": "Jewelry",
+      "D": "Furniture"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 36,
+    "question": "Which feature of a design is considered a three-dimensional feature?",
+    "options": {
+      "A": "Shape",
+      "B": "Colour",
+      "C": "Pattern",
+      "D": "Ornamentation"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 37,
+    "question": "What is required for a design to be considered 'new'?",
+    "options": {
+      "A": "It must not have been made available to the public before the filing date",
+      "B": ") It must have been published in a magazine",
+      "C": "It must be a copy of an existing design",
+      "D": "It must be patented"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 38,
+    "question": "Which of the following is a reason businesses invest in new and original designs?",
+    "options": {
+      "A": "To customize products for specific market segments",
+      "B": "To reduce the cost of production",
+      "C": "To increase the number of employees",
+      "D": "To simplify the manufacturing process"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 39,
+    "question": "Which of the following cannot be protected as an industrial design?",
+    "options": {
+      "A": "A technical drawing of a machine",
+      "B": "A new shape for a chair",
+      "C": "A pattern on fabric",
+      "D": "A book cover design"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 40,
+    "question": "How long does industrial design protection typically last?",
+    "options": {
+      "A": "10 years",
+      "B": "5 years",
+      "C": "15 years",
+      "D": "20 years"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 41,
+    "question": "What is a common grace period for registering an industrial design after it has been made public?",
+    "options": {
+      "A": "6 months",
+      "B": "12 months",
+      "C": "3 months",
+      "D": "18 months"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 42,
+    "question": "What does 'industrial design' not typically include?",
+    "options": {
+      "A": "Architectural structures",
+      "B": "Product packaging",
+      "C": "Buildings and structures",
+      "D": "Furniture design"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 43,
+    "question": "What does the term 'get-up' of products refer to in industrial design?",
+    "options": {
+      "A": "The ornamental or aesthetic design of the product",
+      "B": "The technical features of a product",
+      "C": "The packaging of the product",
+      "D": "The functionality of the product"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 44,
+    "question": "Which approach to protecting traditional knowledge emphasizes cultural heritage?",
+    "options": {
+      "A": "Cultural heritage protection",
+      "B": "Collective human rights",
+      "C": "Use of existing intellectual property laws",
+      "D": "Commercial rights"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 45,
+    "question": "Which term refers to the exclusive right to reproduce, distribute, and display an original work?",
+    "options": {
+      "A": "Copyright",
+      "B": "Trademark",
+      "C": "Patent",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 46,
+    "question": "Which of the following is NOT an example of patentable subject matter?",
+    "options": {
+      "A": "A scientific theory",
+      "B": "A new machine",
+      "C": "A new chemical process",
+      "D": "A new method of manufacture"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 47,
+    "question": "Which section of the IT Act, 2000 deals with \u2018Cyber Appellate Tribunal\u2019?",
+    "options": {
+      "A": "Section 49",
+      "B": "Section 48",
+      "C": "Section 50",
+      "D": "Section 51"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 48,
+    "question": "What does 'design protection' primarily allows a holder to do?",
+    "options": {
+      "A": "Control the aesthetic aspects of a product and prevent copying",
+      "B": "Develop new technological features",
+      "C": "Obtain patents for scientific processes",
+      "D": "License or sell trademarks"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 49,
+    "question": "What is the main purpose of intellectual property law?",
+    "options": {
+      "A": "To encourage innovation and creativity",
+      "B": "To promote competition",
+      "C": "To regulate international trade",
+      "D": "To manage public resources"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 50,
+    "question": "Which factor is crucial in deciding whether to file a patent application?",
+    "options": {
+      "A": "The probability of obtaining commercially useful protection",
+      "B": "The cost of the application",
+      "C": "The inventor's personal preferences",
+      "D": "The ease of drafting the application"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 51,
+    "question": "Which section of the IT Act, 2000 defines \u2018Digital Signature\u2019?",
+    "options": {
+      "A": "Section 2(p)",
+      "B": "Section 2(r)",
+      "C": "Section 2(s)",
+      "D": "Section 2(q)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 52,
+    "question": "Which of the following is NOT a requirement for obtaining a patent?",
+    "options": {
+      "A": "Commercial success",
+      "B": "Utility",
+      "C": "Non-obviousness",
+      "D": "Novelty"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 53,
+    "question": "Which of the following is excluded from patentability according to most national laws?",
+    "options": {
+      "A": "Discoveries of natural substances",
+      "B": "New and useful products",
+      "C": "Inventive processes",
+      "D": "Chemical compositions"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 54,
+    "question": "Which section of the IT Act, 2000 provides for \u2018Power to Issue Directions\u2019?",
+    "options": {
+      "A": "Section 69",
+      "B": "Section 70",
+      "C": "Section 67",
+      "D": "Section 68"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 55,
+    "question": "What does the term \"public domain\" refer to in intellectual property?",
+    "options": {
+      "A": "Works that are free to use without IP restrictions",
+      "B": "Works that are protected by IP laws",
+      "C": "IP rights that are in litigation",
+      "D": "IP rights that are pending approval"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 56,
+    "question": "What is the main benefit of disclosing an invention through the patent system?",
+    "options": {
+      "A": "Gaining legal protection and potential financial returns",
+      "B": "Keeping the invention secret",
+      "C": "Avoiding the need for commercialization",
+      "D": "Transferring ownership to the government"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 57,
+    "question": "Under the IT Act, 2000, which section addresses the \u2018Cyber Terrorism\u2019?",
+    "options": {
+      "A": "Section 66F",
+      "B": "Section 66E",
+      "C": "Section 66D",
+      "D": "Section 66E"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 58,
+    "question": "Which type of intellectual property is concerned with the protection of distinctive symbols, designs, or words?",
+    "options": {
+      "A": "Trademark",
+      "B": "Patent",
+      "C": "Copyright",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 59,
+    "question": "What is the consequence of not paying the required maintenance fees for a patent?",
+    "options": {
+      "A": "The patent expires",
+      "B": "The patent is automatically renewed",
+      "C": "The patent is transferred to the government",
+      "D": "The patent is reassigned to another inventor"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 60,
+    "question": "What is the primary purpose of the \u2018Digital Signature\u2019 under the IT Act, 2000?",
+    "options": {
+      "A": "To authenticate the identity of the sender",
+      "B": "To provide encryption services",
+      "C": "To secure network connections",
+      "D": "To prevent unauthorized access"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 61,
+    "question": "Which of the following is NOT a form of IP protection under copyright law?",
+    "options": {
+      "A": "Scientific discoveries",
+      "B": "Art works",
+      "C": "Literary works",
+      "D": "Software"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 62,
+    "question": "Which of the following is an advantage of a strong patent portfolio?",
+    "options": {
+      "A": "It enhances the company's economic health",
+      "B": "It reduces competition",
+      "C": "It hinders technological progress",
+      "D": "It increases the cost of innovation"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 63,
+    "question": "Which section of the IT Act, 2000 provides for \u2018Compensation for Failure to Protect Data\u2019?",
+    "options": {
+      "A": "Section 43A",
+      "B": "Section 45A",
+      "C": "Section 46A",
+      "D": "Section 44A"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 64,
+    "question": "What is the term for copying and using someone else\u2019s copyrighted work without permission?",
+    "options": {
+      "A": "Copyright infringement",
+      "B": "Trade secret misappropriation",
+      "C": "Patent infringement",
+      "D": "Trademark dilution"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 65,
+    "question": "Who is considered the inventor in the context of a patent application?",
+    "options": {
+      "A": "The person who conceived the invention",
+      "B": "The person who filed the patent application",
+      "C": "The government authority granting the patent",
+      "D": "The company that funded the research"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 66,
+    "question": "Which authority is responsible for the oversight of the implementation of the IT Act, 2000?",
+    "options": {
+      "A": "Ministry of Electronics and Information Technology (MeitY)",
+      "B": "Reserve Bank of India (RBI)",
+      "C": "Department of Telecommunications (DoT)",
+      "D": "Central Bureau of Investigation (CBI)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 67,
+    "question": "Which type of intellectual property protects inventions?",
+    "options": {
+      "A": "Patent",
+      "B": "Trademark",
+      "C": "Copyright",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 68,
+    "question": "What does the word \"Patene\" mean in Latin?",
+    "options": {
+      "A": "To open",
+      "B": "To protect",
+      "C": "To invent",
+      "D": "To disclose"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 69,
+    "question": "The IT Act, 2000 was enacted in India to address issues related to:",
+    "options": {
+      "A": "Cybercrime and electronic commerce",
+      "B": "Intellectual property rights",
+      "C": "Telecommunication services",
+      "D": "Data privacy regulations"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 70,
+    "question": "Which organization deals with international IP disputes and policy development?",
+    "options": {
+      "A": "WIPO (World Intellectual Property Organization)",
+      "B": "WTO (World Trade Organization)",
+      "C": "ICC (International Chamber of Commerce)",
+      "D": "UN (United Nations)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 71,
+    "question": "What is \"prior art\" in the context of patent law?",
+    "options": {
+      "A": "All relevant technical knowledge available to the public before the filing date",
+      "B": "Artistic work related to the invention",
+      "C": "Previous patents filed by the same inventor",
+      "D": "Any invention made in the same field"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 72,
+    "question": "Under the IT Act, 2000, which section provides for the \u2018Penalty for Failure to Furnish Information\u2019?",
+    "options": {
+      "A": "Section 77",
+      "B": "Section 78",
+      "C": "Section 79",
+      "D": "Section 76"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 73,
+    "question": "Which of the following is NOT eligible for patent protection?",
+    "options": {
+      "A": "Scientific theories",
+      "B": "Business Method",
+      "C": "Physical Invention",
+      "D": "Industrial Design"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 74,
+    "question": "Which of the following is a possible alternative to filing a patent application?",
+    "options": {
+      "A": "Keeping the invention as a trade secret",
+      "B": "Filing a copyright application instead",
+      "C": "Assigning the invention to another inventor",
+      "D": "Publicly disclosing the invention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 75,
+    "question": "Which section of the IT Act, 2000, deals with the legal recognition of electronic records?",
+    "options": {
+      "A": "Section 4",
+      "B": "Section 6",
+      "C": "Section 6",
+      "D": "Section 7"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 76,
+    "question": "What is the primary role of the USPTO?",
+    "options": {
+      "A": "To grant Patent and Trademark",
+      "B": "To enforce copyright laws",
+      "C": "To protect trade secrets",
+      "D": "To manage international IP treaties"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 77,
+    "question": "What is the significance of the \"disclosure requirement\" in a patent application?",
+    "options": {
+      "A": "It provides enough detail for someone skilled in the field to carry out the invention",
+      "B": "It ensures the invention is kept secret",
+      "C": "It limits the scope of the patent",
+      "D": "It allows others to replicate the invention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 78,
+    "question": "The IT Act, 2000, provides legal recognition to electronic contracts through which section?",
+    "options": {
+      "A": "Section 10A",
+      "B": "Section 14A",
+      "C": "Section 12A",
+      "D": "Section 13A"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 79,
+    "question": "Which of the following best describes a \u201ctrademark\u201d?",
+    "options": {
+      "A": "A symbol used to distinguish goods or services",
+      "B": "A written work that is original and creative",
+      "C": "An invention that is useful and novel",
+      "D": "A confidential business strategy"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 80,
+    "question": "What is the effect of joint ownership on a patent?",
+    "options": {
+      "A": "Each co-owner must consent to any licensing or enforcement of the patent",
+      "B": "One co-owner can license the patent without the consent of others",
+      "C": "The patent is automatically revoked",
+      "D": "The government takes over ownership"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 81,
+    "question": "What does Section 2(w) of the IT Act, 2000 define?",
+    "options": {
+      "A": "Electronic record",
+      "B": "Digital signature",
+      "C": "Electronic commerce",
+      "D": "Intermediary"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 82,
+    "question": "Which IP protection is most likely to be used for a new software program?",
+    "options": {
+      "A": "Copyright",
+      "B": "Trademark",
+      "C": "Patent",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 83,
+    "question": "Which of the following is NOT typically covered under patent law?",
+    "options": {
+      "A": "A method of performing a mental act",
+      "B": "A machine used in agriculture",
+      "C": "A process for manufacturing a new product",
+      "D": "A novel chemical composition"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 84,
+    "question": "Which rule under the IT Act, 2000, pertains to the \u2018Information Technology (Intermediaries Guidelines) Rules, 2011\u2019?",
+    "options": {
+      "A": "Rule 3",
+      "B": "Rule 4",
+      "C": "Rule 5",
+      "D": "Rule 6"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 85,
+    "question": "Which of the following is a feature of a design patent?",
+    "options": {
+      "A": "Protects the ornamental design of an object",
+      "B": "Protects the function of an invention",
+      "C": "Protects a company\u2019s brand name",
+      "D": "Protects original written content"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 86,
+    "question": "In most countries, patents are granted to which of the following?",
+    "options": {
+      "A": "The first person to file a patent application",
+      "B": "The company funding the research",
+      "C": "The government",
+      "D": "The first inventor"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 87,
+    "question": "What does Section 79 of the IT Act, 2000, primarily address?",
+    "options": {
+      "A": "Liability of intermediaries",
+      "B": "Cyber crimes",
+      "C": "Electronic contracts",
+      "D": "Digital signatures"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 88,
+    "question": "Which IP right is generally not disclosed to the public?",
+    "options": {
+      "A": "Trade Secret",
+      "B": "Patent",
+      "C": "Trademark",
+      "D": "None of these"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 89,
+    "question": "What is an Ordinary Application?",
+    "options": {
+      "A": "A patent application without claiming priority from any other application",
+      "B": "A patent application claiming priority from another country",
+      "C": "A patent application with multiple inventions",
+      "D": "A patent application for a provisional patent"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 90,
+    "question": "Which section of the IT Act, 2000, mandates that electronic records must be maintained for a minimum period?",
+    "options": {
+      "A": "Section 11",
+      "B": "Section 10A",
+      "C": "Section 12",
+      "D": "Section 13"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 91,
+    "question": "What is \u201cpatentable\u201d subject matter?",
+    "options": {
+      "A": "Human-made inventions",
+      "B": "Artistic creations",
+      "C": "Abstract ideas",
+      "D": "Natural phenomena"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 92,
+    "question": "What is a Convention Application?",
+    "options": {
+      "A": "An application claiming priority from a previously filed application in a convention country",
+      "B": "An application claiming priority from a previously filed application in a non-convention country",
+      "C": "An application for a new invention without priority",
+      "D": "An application for minor modifications of an existing patent"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 93,
+    "question": "Under the IT Act, 2000, what is the primary legal requirement for digital signatures?",
+    "options": {
+      "A": "Must be certified by a Certifying Authority",
+      "B": "Must be encrypted",
+      "C": "Must be registered with the government",
+      "D": "Must be stored on a secure server"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 94,
+    "question": "What is the term for the exclusive rights granted to the creator of an original work for a limited time?",
+    "options": {
+      "A": "Copyright",
+      "B": "Trademark",
+      "C": "Patent",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 95,
+    "question": "What is required when filing a Convention Application in India?",
+    "options": {
+      "A": "A priority document and its English translation, if required",
+      "B": "Only a complete specification",
+      "C": "A detailed technical report",
+      "D": "Only a provisional specification"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 96,
+    "question": "What does Section 66E of the IT Act, 2000, address?",
+    "options": {
+      "A": "Punishment for capturing, publishing, or transmitting obscene material",
+      "B": "Identity theft",
+      "C": "Cyber terrorism",
+      "D": "Hacking"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 97,
+    "question": "How can a trademark be registered in the United States?",
+    "options": {
+      "A": "By applying to the USPTO",
+      "B": "By publishing it in a journal",
+      "C": "By obtaining a patent",
+      "D": "By using it in commerce"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 98,
+    "question": "What does PCT stand for?",
+    "options": {
+      "A": "Patent Cooperation Treaty",
+      "B": "Patent Convention Treaty",
+      "C": "Priority Country Treaty",
+      "D": "Patent Cooperation Transaction"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 99,
+    "question": "Which section of the IT Act, 2000, provides guidelines for the formation and implementation of electronic contracts?",
+    "options": {
+      "A": "Section 10",
+      "B": "Section 11",
+      "C": "Section 12",
+      "D": "Section 13"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 100,
+    "question": "Which of the following is protected by copyright?",
+    "options": {
+      "A": "Novel",
+      "B": "Logo",
+      "C": "Inventin",
+      "D": "Company Name"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 101,
+    "question": "What is the primary purpose of Patent System?",
+    "options": {
+      "A": "To promote technological innovation and transfer",
+      "B": "To keep inventions secret",
+      "C": "To limit the use of inventions",
+      "D": "To grant exclusive rights to the inventor"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 102,
+    "question": "Which section of the IT Act, 2000 deals with the definition of \u2018computer\u2019 and \u2018computer system\u2019?",
+    "options": {
+      "A": "Section 2",
+      "B": "Section 3",
+      "C": "Section 4",
+      "D": "Section 5"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 103,
+    "question": "Which of the following is NOT a requirement for copyright protection?",
+    "options": {
+      "A": "Novelty",
+      "B": "Originality",
+      "C": "Creativity",
+      "D": "Fixed in a tangible medium"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 104,
+    "question": "How many countries can a PCT International Application are validated in?",
+    "options": {
+      "A": "Up to 142 countries",
+      "B": "Up to 100 countries",
+      "C": "Up to 120 countries",
+      "D": "Up to 160 countries"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 105,
+    "question": "Under the IT Act, 2000, what must a company do to comply with regulations on privacy and security of data?",
+    "options": {
+      "A": "Implement reasonable security practices",
+      "B": "Appoint a Data Protection Officer",
+      "C": "Obtain consent for data sharing",
+      "D": "Regularly audit IT infrastructure"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 106,
+    "question": "Which term refers to the unauthorized use of a patented invention?",
+    "options": {
+      "A": "Patent infringement",
+      "B": "Copyright piracy",
+      "C": "Trade secret violation",
+      "D": "Trademark counterfeiting"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 107,
+    "question": "What is the main advantage of filing a PCT International Application?",
+    "options": {
+      "A": "Single international application seeking protection in multiple countries",
+      "B": "Faster patent processing",
+      "C": "Immediate grant of a global patent",
+      "D": "Exemption from national phase entry"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 108,
+    "question": "Which section deals with the power to issue directions for the interception, monitoring, and decryption of information?",
+    "options": {
+      "A": "Section 69",
+      "B": "Section 66F",
+      "C": "Section 72",
+      "D": "Section 78"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 109,
+    "question": "What does \u201cfair use\u201d refer to in copyright law?",
+    "options": {
+      "A": "Limited use of copyrighted material without permission",
+      "B": "Unauthorized use of copyrighted material",
+      "C": "The process of obtaining a copyright",
+      "D": "A type of trademark protection"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 110,
+    "question": "What is provided by a PCT International Search Report?",
+    "options": {
+      "A": "Prior art citations and assessment of novelty",
+      "B": "Final grant of the patent",
+      "C": "Legal status of the invention",
+      "D": "Commercial viability of the invention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 111,
+    "question": "What does Section 43A of the IT Act, 2000, provide for?",
+    "options": {
+      "A": "Protection of personal data",
+      "B": "Penalties for cyber crimes",
+      "C": "Compensation for damages",
+      "D": "Regulation of digital certificates"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 112,
+    "question": "What is the term for a brand\u2019s name or logo that has become so well-known it is considered generic?",
+    "options": {
+      "A": "Genericide",
+      "B": "Trademark dilution",
+      "C": "Trade secret misappropriation",
+      "D": "Trademark infringement"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 113,
+    "question": "What happens if the applicant does not enter the national phase within the prescribed time limit?",
+    "options": {
+      "A": "The international application becomes void",
+      "B": "The patent is granted automatically",
+      "C": "The application is transferred to another country",
+      "D": "The application is put on hold indefinitely"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 114,
+    "question": "The \u2018Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011\u2019 are framed under which section of the IT Act, 2000?",
+    "options": {
+      "A": "Section 43A",
+      "B": "Section 45",
+      "C": "Section 46",
+      "D": "Section 44"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 115,
+    "question": "Which of the following types of intellectual property protection typically requires the inventor to disclose details about the invention?",
+    "options": {
+      "A": "Patent",
+      "B": "Trademark",
+      "C": "Copyright",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 116,
+    "question": "What is a Patent of Addition?",
+    "options": {
+      "A": "A patent for an improvement or modification of an existing patent",
+      "B": "A patent for a completely new invention",
+      "C": "A patent for a similar invention filed in another country",
+      "D": "A patent for a group of related inventions"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 117,
+    "question": "Which authority is responsible for setting standards for digital signatures and certifying authorities?",
+    "options": {
+      "A": "Controller of Certifying Authorities (CCA)",
+      "B": "Reserve Bank of India (RBI)",
+      "C": "Cyber Appellate Tribunal",
+      "D": "Ministry of Electronics and Information Technology (MeitY)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 118,
+    "question": "Which year marked the adoption of the Indian Patents Act, which significantly reformed patent laws in India?",
+    "options": {
+      "A": "1970",
+      "B": "1999",
+      "C": "2005",
+      "D": "1978"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 119,
+    "question": "When does a Patent of Addition expire?",
+    "options": {
+      "A": "When the main patent expires",
+      "B": "10 years after filing",
+      "C": "20 years after filing",
+      "D": "After the inventor's death"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 120,
+    "question": "Under the IT Act, 2000, which section addresses the liability of online platforms for user-generated content?",
+    "options": {
+      "A": "Section 79",
+      "B": "Section 82",
+      "C": "Section 80",
+      "D": "Section 81"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 121,
+    "question": "Which organization is responsible for the registration and enforcement of intellectual property rights in India?",
+    "options": {
+      "A": "IPO",
+      "B": "ICC",
+      "C": "ICICI",
+      "D": "WIPO"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 122,
+    "question": "What is a Divisional Application?",
+    "options": {
+      "A": "An application divided out of an existing application claiming more than one invention",
+      "B": "An application for patent protection in a specific industry",
+      "C": "An application for the same invention in multiple countries",
+      "D": "An application for a completely new invention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 123,
+    "question": "Which section of the IT Act, 2000, deals with the 'Adjudication of disputes'?",
+    "options": {
+      "A": "Section 48",
+      "B": "Section 46",
+      "C": "Section 47",
+      "D": "Section 49"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 124,
+    "question": "The Copyright Act of India was first enacted in which year?",
+    "options": {
+      "A": "1957",
+      "B": "1999",
+      "C": "1970",
+      "D": "2005"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 125,
+    "question": "What is the priority date for Divisional Applications?",
+    "options": {
+      "A": "The same as the parent application's priority date",
+      "B": "The date of filing of the divisional application",
+      "C": "The date of publication of the main patent",
+      "D": "The date of grant of the main patent"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 126,
+    "question": "What is the focus of Section 66D of the IT Act, 2000?",
+    "options": {
+      "A": "Phishing",
+      "B": "Identity theft",
+      "C": "Cyber terrorism",
+      "D": "Cyber harassment"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 127,
+    "question": "Which international agreement, to which India is a signatory, governs patents and is administered by the WIPO?",
+    "options": {
+      "A": "TRIPS Agreement",
+      "B": "Madrid Protocol",
+      "C": "Berne Convention",
+      "D": "Paris Convention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 128,
+    "question": "What is a Patent Specification?",
+    "options": {
+      "A": "A document describing the invention and setting out the scope of protection",
+      "B": "A legal contract between the inventor and the patent office",
+      "C": "A document listing the countries where the patent is valid",
+      "D": "A summary of patent laws"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 129,
+    "question": "Which section of the IT Act, 2000, is concerned with the offense of sending offensive messages through communication service, etc.?",
+    "options": {
+      "A": "Section 66A",
+      "B": "Section 66B",
+      "C": "Section 66C",
+      "D": "Section 66D"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 130,
+    "question": "When was the Trade Marks Act, which governs trademarks in India, enacted?",
+    "options": {
+      "A": "1999",
+      "B": "1970",
+      "C": "2005",
+      "D": "1957"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 131,
+    "question": "Which document filed to establish only the earliest ownership of an invention?",
+    "options": {
+      "A": "Provisional Specification",
+      "B": "National Phase Application",
+      "C": "Complete Specification",
+      "D": "Patent Cooperation Treaty"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 132,
+    "question": "Under the IT Act, 2000, what is required for the validity of an electronic record?",
+    "options": {
+      "A": "It must be authenticated using a digital signature",
+      "B": "It must be signed by a physical signature",
+      "C": "It must be printed on paper",
+      "D": "It must be verified by a government agency"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 133,
+    "question": "What is a trademark used to protect?",
+    "options": {
+      "A": "Brand Name and Logo",
+      "B": "Business Method",
+      "C": "Chemical Formula",
+      "D": "Literary Work"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 134,
+    "question": "What type of right is a patent?",
+    "options": {
+      "A": "Territorial",
+      "B": "Global",
+      "C": "International",
+      "D": "Universal"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 135,
+    "question": "What does Section 43 of the IT Act, 2000 pertain to?",
+    "options": {
+      "A": "Compensation for damages to the computer system",
+      "B": "Penalties for contraventions",
+      "C": "Definition of cybercrime",
+      "D": "Power to investigate cybercrimes"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 136,
+    "question": "Which act regulates the protection of industrial designs in India?",
+    "options": {
+      "A": "Designs Act",
+      "B": "Patent Act",
+      "C": "Trademark Act",
+      "D": "Copyright Act"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 137,
+    "question": "What must be filed within 12 months of a Provisional Specification to obtain a patent?",
+    "options": {
+      "A": "A Complete Specification",
+      "B": "Another Provisional Specification",
+      "C": "A Convention Application",
+      "D": "A Patent of Addition"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 138,
+    "question": "Which section of the IT Act, 2000, empowers the Central Government to prescribe additional rules and regulations for e-commerce?",
+    "options": {
+      "A": "Section 74",
+      "B": "Section 72",
+      "C": "Section 73",
+      "D": "Section 70"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 139,
+    "question": "In which year did India join the World Trade Organization (WTO), committing to comply with the TRIPS Agreement?",
+    "options": {
+      "A": "1995",
+      "B": "2000",
+      "C": "2002",
+      "D": "2004"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 140,
+    "question": "What is the significance of the Complete Specification?",
+    "options": {
+      "A": "It describes the invention in detail, enabling others to replicate it",
+      "B": "It grants the patent automatically",
+      "C": "It provides an abstract of the invention",
+      "D": "It is used only in international patent applications"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 141,
+    "question": "What is the primary goal of e-Governance?",
+    "options": {
+      "A": "To enhance transparency, efficiency, and accessibility in government services",
+      "B": "To improve public sector profits",
+      "C": "To reduce government employee count",
+      "D": "To regulate private sector businesses"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 142,
+    "question": "Which of the following has geographical indications tag in India?",
+    "options": {
+      "A": "Darjeeling Tea",
+      "B": "Raspuri Mango",
+      "C": "BT Brinjal",
+      "D": "Red Rose"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 143,
+    "question": "What part of the Complete Specification defines the monopoly right of the patentee?",
+    "options": {
+      "A": "Claim",
+      "B": "Title",
+      "C": "Abstract",
+      "D": "Background of the Invention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 144,
+    "question": "Which of the following is a key component of e-Governance?",
+    "options": {
+      "A": "Digital literacy",
+      "B": "Financial audits",
+      "C": "Print media",
+      "D": "Telephone services"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 145,
+    "question": "What was the primary focus of the 2005 amendment to the Patents Act in India?",
+    "options": {
+      "A": "Introducing product patents in pharmaceuticals",
+      "B": "Strengthening copyright laws",
+      "C": "Enhancing protection for traditional knowledge",
+      "D": "Simplifying trademark registration processes"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 146,
+    "question": "Which section of the Indian Patents Act deals with Provisional and Complete Specification?",
+    "options": {
+      "A": "Section 9",
+      "B": "Section 11",
+      "C": "Section 8",
+      "D": "Section 10"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 147,
+    "question": "Which Indian government initiative is aimed at providing a common electronic platform for various services and information?",
+    "options": {
+      "A": "Digital India",
+      "B": "National Digital Library",
+      "C": "Public Service Delivery System",
+      "D": "Smart Cities Mission"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 148,
+    "question": "Which Indian body oversees the enforcement of intellectual property rights and provides a platform for dispute resolution?",
+    "options": {
+      "A": "Intellectual Property Appellate Board (IPAB)",
+      "B": "Competition Commission of India (CCI)",
+      "C": "Indian Patent Office",
+      "D": "Reserve Bank of India (RBI)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 149,
+    "question": "What is an Abstract in a Complete Specification?",
+    "options": {
+      "A": "A brief summary of the invention within 150 words",
+      "B": "A legal clause defining the scope of the patent",
+      "C": "A detailed description of the invention",
+      "D": "A list of prior art references"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 150,
+    "question": "What is the primary focus of the National e-Governance Plan (NeGP) in India?",
+    "options": {
+      "A": "To provide seamless delivery of services through IT",
+      "B": "To enhance educational standards",
+      "C": "To regulate financial markets",
+      "D": "To improve road infrastructure"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 151,
+    "question": "When did the Indian Parliament pass the National Intellectual Property Rights Policy?",
+    "options": {
+      "A": "2016",
+      "B": "1956",
+      "C": "2005",
+      "D": "1970"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 152,
+    "question": "Who is entitled to apply for a patent in the National Filing Procedure?",
+    "options": {
+      "A": "Any person who is a true and first inventor or their assignee or legal representative",
+      "B": "Any person who works in the Patent Office",
+      "C": "Any person who is an inventor",
+      "D": "Any person who purchases the invention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 153,
+    "question": "Which of the following is NOT a benefit of e-Governance?",
+    "options": {
+      "A": "Higher government spending",
+      "B": "Increased transparency",
+      "C": "Reduced bureaucratic delays",
+      "D": "Improved public access to services"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 154,
+    "question": "Which of the following is NOT covered by the Copyright Act in India?",
+    "options": {
+      "A": "Industrial processes",
+      "B": "Literary works",
+      "C": "Music",
+      "D": "Artistic works"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 155,
+    "question": "What is the maximum period allowed for filing the complete specification after the provisional specification?",
+    "options": {
+      "A": "12 months",
+      "B": "6 months",
+      "C": "18 months",
+      "D": "24 months"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 156,
+    "question": "Which of the following is a common tool used in e-Governance for citizen interaction?",
+    "options": {
+      "A": "E-mail",
+      "B": "Television",
+      "C": "Radio",
+      "D": "Print Newspapers"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 157,
+    "question": "The Trade Marks Act, 1999, replaced which earlier act?",
+    "options": {
+      "A": "Trade Marks Act, 1940",
+      "B": "Trade Marks Act, 1976",
+      "C": "Trade Marks Act, 1984",
+      "D": "Trade Marks Act, 1958"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 158,
+    "question": "When is a patent application published under the National Filing Procedure?",
+    "options": {
+      "A": "After 18 months from the filing date or priority date, whichever is earlier",
+      "B": "Immediately after filing",
+      "C": "After 24 months from the filing date",
+      "D": "After 12 months from the filing date"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 159,
+    "question": "What does the term \"e-Governance\" primarily refer to?",
+    "options": {
+      "A": "The use of technology to provide government services and information",
+      "B": "Electronic communication within the government",
+      "C": "Electronic voting systems",
+      "D": "Online advertising by the government"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 160,
+    "question": "Which amendment to the Patents Act, 1970, introduced the concept of compulsory licensing?",
+    "options": {
+      "A": "2002 Amendment",
+      "B": "1999 Amendment",
+      "C": "2005 Amendment",
+      "D": "2010 Amendment"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 161,
+    "question": "What happens if the Request for Examination is not made within the prescribed period?",
+    "options": {
+      "A": "The application is treated as withdrawn",
+      "B": "The patent is automatically granted",
+      "C": "The applicant is fined",
+      "D": "The application is published without examination"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 162,
+    "question": "Which initiative aims to provide a single-window clearance system for various government services in India?",
+    "options": {
+      "A": "e-District",
+      "B": "e-Tendering",
+      "C": "e-Procurement",
+      "D": "e-Citizen"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 163,
+    "question": "What is the primary purpose of the Designs Act, 2000?",
+    "options": {
+      "A": "To protect industrial designs",
+      "B": "To sell designs",
+      "C": "To Import designs",
+      "D": "To manage trade marks"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 164,
+    "question": "What is the purpose of the International Search Report (ISR) in the PCT filing procedure?",
+    "options": {
+      "A": "To provide a list of prior art documents relevant to the invention",
+      "B": "To determine the renewal fee for the patent",
+      "C": "To grant the patent in all PCT member countries",
+      "D": "To translate the patent application into different languages"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 165,
+    "question": "What is the purpose of the e-Governance initiative known as \"Aadhaar\"?",
+    "options": {
+      "A": "To create a national digital identity system",
+      "B": "To regulate agricultural subsidies",
+      "C": "To promote tourism",
+      "D": "To improve road safety"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 166,
+    "question": "Which IP right provides protection for a new, original, and useful process or machine?",
+    "options": {
+      "A": "Patent",
+      "B": "Trademark",
+      "C": "Copyright",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 167,
+    "question": "Which of the following is NOT a feature of a patent right?",
+    "options": {
+      "A": "It is granted for an unlimited period",
+      "B": "It is territorial in nature",
+      "C": "It can be enforced only in the country where it is granted.",
+      "D": "It provides exclusivity to the patent holder."
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 168,
+    "question": "Which body is responsible for adjudicating cybercrimes and disputes under the IT Act?",
+    "options": {
+      "A": "Cyber Appellate Tribunal",
+      "B": "Supreme Court",
+      "C": "High Court",
+      "D": "District Court"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 169,
+    "question": "Which Indian law provides protection for plant varieties?",
+    "options": {
+      "A": "Plant Varieties Protection and Farmers' Rights Act",
+      "B": "Trade Marks Act",
+      "C": "Patents Act",
+      "D": "Farmer\u2019s Association Act"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 170,
+    "question": "Which of the following documents analyzes the potential patentability of an invention in the PCT filing procedure?",
+    "options": {
+      "A": "Written Opinion of the International Searching Authority (ISA)",
+      "B": "International Preliminary Examination Report (IPER)",
+      "C": "PCT Filing Certificate",
+      "D": "Patent Grant Report (PGR)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 171,
+    "question": "Which system is designed to enhance government efficiency and service delivery through a digital interface?",
+    "options": {
+      "A": "ERP (Enterprise Resource Planning)",
+      "B": "GIS (Geographic Information System)",
+      "C": "CRM (Customer Relationship Management)",
+      "D": "MIS (Management Information System)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 172,
+    "question": "The Geographical Indications of Goods (Registration and Protection) Act was enacted in which year?",
+    "options": {
+      "A": "2002",
+      "B": "2005",
+      "C": "1999",
+      "D": "2006"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 173,
+    "question": "How long is the additional period provided by the PCT on top of the 12 months priority period?",
+    "options": {
+      "A": "18 months",
+      "B": "12 months",
+      "C": "24 months",
+      "D": "6 months"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 174,
+    "question": "Which of the following is a major challenge in implementing e-Governance?",
+    "options": {
+      "A": "Limited availability of IT infrastructure",
+      "B": "Absence of government support",
+      "C": "High cost of technology",
+      "D": "Lack of interest from the public"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 175,
+    "question": "Which of the following is a key objective of the National IPR Policy in India?",
+    "options": {
+      "A": "To promote and protect IP rights effectively",
+      "B": "To eliminate all forms of IP protection",
+      "C": "To restrict foreign IP investments",
+      "D": "To decentralize IP administration"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 176,
+    "question": "What does a single PCT application provide in terms of legal effect?",
+    "options": {
+      "A": "Legal effect in all PCT member countries",
+      "B": "No legal effect until the patent is granted",
+      "C": "Legal effect in the country of filing only",
+      "D": "Legal effect in a single country of the applicant\u2019s choice"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 177,
+    "question": "What does the term \"e-Government\" often encompass?",
+    "options": {
+      "A": "All government-related operations and services managed electronically",
+      "B": "Only online services for citizens",
+      "C": "The creation of government websites",
+      "D": "The use of social media for government announcements"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 178,
+    "question": "Which Indian agency is responsible for examining patent applications and granting patents?",
+    "options": {
+      "A": "Indian Patent Office",
+      "B": "Central Board of Indirect Taxes and Customs",
+      "C": "Indian Council of Scientific and Industrial Research",
+      "D": "Directorate General of Foreign Trade"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 179,
+    "question": "What is the first major step in the patent procedure?",
+    "options": {
+      "A": "Application for the patent",
+      "B": "Examination of the patent",
+      "C": "Grant and sealing of the patent",
+      "D": "Opposition to the patent"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 180,
+    "question": "Which of the following is an example of a citizen-centric e-Governance service?",
+    "options": {
+      "A": "Online tax filing",
+      "B": "Internal staff training programs",
+      "C": "Government research projects",
+      "D": "Government procurement processes"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 181,
+    "question": "What is the main objective of the Copyright Act, 1957, in India?",
+    "options": {
+      "A": "To provide exclusive rights to authors and creators",
+      "B": "To protect trademarks",
+      "C": "To manage industrial designs",
+      "D": "To regulate patent applications"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 182,
+    "question": "Who can file an application for a patent under the Indian Patent Act, 1970?",
+    "options": {
+      "A": "The true and first inventor or their legal representative",
+      "B": "Any person with an idea",
+      "C": "Only legal entities",
+      "D": "Any employee of a company"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 183,
+    "question": "The implementation of e-Governance typically requires which of the following?",
+    "options": {
+      "A": "Advanced hardware and software infrastructure",
+      "B": "Decrease in public involvement",
+      "C": "More paperwork",
+      "D": "Removal of all traditional government services"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 184,
+    "question": "Which international agreement sets minimum standards for intellectual property protection and is administered by the World Trade Organization (WTO)?",
+    "options": {
+      "A": "TRIPS Agreement",
+      "B": "Berne Convention",
+      "C": "Paris Convention",
+      "D": "Madrid Protocol"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 185,
+    "question": "Where is the publication of a patent application notified?",
+    "options": {
+      "A": "In the Official Gazette or Patent Office Journals",
+      "B": "In a local newspaper",
+      "C": "On the company\u2019s website",
+      "D": "In a scientific journal"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 186,
+    "question": "Which of the following frameworks supports the integration of various e-Governance services and applications?",
+    "options": {
+      "A": "SOA (Service-Oriented Architecture)",
+      "B": "ERP (Enterprise Resource Planning)",
+      "C": "BPR (Business Process Reengineering)",
+      "D": "CRM (Customer Relationship Management)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 187,
+    "question": "The Berne Convention for the Protection of Literary and Artistic Works primarily deals with which type of intellectual property?",
+    "options": {
+      "A": "Copyrights",
+      "B": "Trademarks",
+      "C": "Patent",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 188,
+    "question": "What happens if no request for examination is made within the prescribed period?",
+    "options": {
+      "A": "The application is treated as withdrawn",
+      "B": "The patent is automatically granted",
+      "C": "The patent is published without examination",
+      "D": "The applicant is fined"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 189,
+    "question": "Which term refers to the process of ensuring that e-Governance systems are accessible and usable by people with disabilities?",
+    "options": {
+      "A": "E-Accessibility",
+      "B": "Digital inclusion",
+      "C": "Data privacy",
+      "D": "IT compliance"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 190,
+    "question": "Which international agreement provides for the protection of trademarks and service marks across member countries?",
+    "options": {
+      "A": "Madrid Protocol",
+      "B": "Berne Convention",
+      "C": "Paris Convention",
+      "D": "TRIPS Agreement"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 191,
+    "question": "Within how many months must the First Examination Report (FER) be responded to by the applicant?",
+    "options": {
+      "A": "6 months",
+      "B": "3 months",
+      "C": "9 months",
+      "D": "12 months"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 192,
+    "question": "What role does cloud computing play in e-Governance?",
+    "options": {
+      "A": "It provides scalable and cost-effective infrastructure for government services",
+      "B": "It increases government expenditure",
+      "C": "It eliminates the need for data security",
+      "D": "It reduces the need for digital literacy"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 193,
+    "question": "The Paris Convention for the Protection of Industrial Property focuses on which types of intellectual property?",
+    "options": {
+      "A": "Patents and trademarks",
+      "B": "Copyrights and patents",
+      "C": "Trademarks and designs",
+      "D": "Copyrights and trade secrets"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 194,
+    "question": "What is the maximum period within which a request for examination must be filed from the date of priority or filing?",
+    "options": {
+      "A": "48 months",
+      "B": "24 months",
+      "C": "36 months",
+      "D": "60 months"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 195,
+    "question": "Which of the following is an e-Governance initiative aimed at improving public service delivery in rural areas of India?",
+    "options": {
+      "A": "Common Service Centers (CSCs)",
+      "B": "Digital India Hub",
+      "C": "E-Governance Gateway",
+      "D": "E-Village Program"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 196,
+    "question": "Which organization administers the Patent Cooperation Treaty (PCT), which facilitates international patent filings?",
+    "options": {
+      "A": "World Intellectual Property Organization (WIPO)",
+      "B": "World Trade Organization (WTO)",
+      "C": "International Chamber of Commerce (ICC)",
+      "D": "United Nations (UN)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 197,
+    "question": "Who can file a pre-grant opposition to a patent?",
+    "options": {
+      "A": "Any interested person",
+      "B": "Only the inventor",
+      "C": "Only the government",
+      "D": "Only the patent examiner"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 198,
+    "question": "Which concept involves using data collected from e-Governance systems to make informed policy decisions?",
+    "options": {
+      "A": "Data analytics",
+      "B": "Traditional governance",
+      "C": "Document management",
+      "D": "Paper-based surveys"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 199,
+    "question": "Which type of intellectual property includes No registration?",
+    "options": {
+      "A": "Trade Secret",
+      "B": "Patent",
+      "C": "Trademark",
+      "D": "Copyright"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 200,
+    "question": "What happens to a patented invention after the patent expires?",
+    "options": {
+      "A": "It becomes open to the public for free use",
+      "B": "It remains the property of the patent holder",
+      "C": "It can only be used with the government\u2019s permission",
+      "D": "It is automatically renewed for another 20 years"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 201,
+    "question": "What is the role of the Controller of Certifying Authorities (CCA) under the IT Act?",
+    "options": {
+      "A": "To issue digital certificates",
+      "B": "To regulate internet service providers",
+      "C": "To certify electronic documents",
+      "D": "To investigate cybercrime"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 202,
+    "question": "What is the primary objective of the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)?",
+    "options": {
+      "A": "To establish minimum standards for IP protection and enforcement",
+      "B": "To eliminate intellectual property rights globally",
+      "C": "To restrict international trade in IP-related goods",
+      "D": "To harmonize copyright laws only"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 203,
+    "question": "Within how many months from the advertisement date can a pre-grant opposition be filed?",
+    "options": {
+      "A": "4 months",
+      "B": "2 months",
+      "C": "6 months",
+      "D": "3 months"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 204,
+    "question": "What is the primary benefit of integrating e-Governance with mobile technology?",
+    "options": {
+      "A": "Increased access to government services for people on the go",
+      "B": "Reduced internet speed",
+      "C": "Higher operational costs",
+      "D": "Decreased security"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 205,
+    "question": "Which international treaty provides protection for the geographical indications of goods?",
+    "options": {
+      "A": "Lisbon Agreement",
+      "B": "Berne Convention",
+      "C": "TRIPS Agreement",
+      "D": "Madrid Agreement"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 206,
+    "question": "What must be included in a post-grant opposition notice?",
+    "options": {
+      "A": "Written statement and evidence",
+      "B": "A simple objection",
+      "C": "Only the applicant\u2019s name",
+      "D": "Only the patent number"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 207,
+    "question": "What is the primary purpose of a digital signature?",
+    "options": {
+      "A": "To verify the authenticity of a digital message or document",
+      "B": "To encrypt data",
+      "C": "To create a digital document",
+      "D": "To modify digital content"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 208,
+    "question": "Which agreement facilitates the international registration of trademarks and service marks?",
+    "options": {
+      "A": "Madrid Protocol",
+      "B": "Paris Convention",
+      "C": "Berne Convention",
+      "D": "Hague Agreement"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 209,
+    "question": "Under which section of the Act is the grant and sealing of a patent handled?",
+    "options": {
+      "A": "Section 43",
+      "B": "Section 11A",
+      "C": "Section 25",
+      "D": "Section 9"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 210,
+    "question": "Which section of the IT Act, 2000 deals with digital signatures in India?",
+    "options": {
+      "A": "Section 5",
+      "B": "Section 10",
+      "C": "Section 6",
+      "D": "Section 3"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 211,
+    "question": "The Hague Agreement pertains to the international registration of which type of intellectual property?",
+    "options": {
+      "A": "Industrial designs",
+      "B": "Patents",
+      "C": "Copyrights",
+      "D": "Trademarks"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 212,
+    "question": "When is the renewal fee is payable after the grant of patent?",
+    "options": {
+      "A": "Third year",
+      "B": "First year",
+      "C": "Second year",
+      "D": "Fifth year"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 213,
+    "question": "What technology is commonly used to create digital signatures?",
+    "options": {
+      "A": "Public Key Infrastructure (PKI)",
+      "B": "Blockchain",
+      "C": "Symmetric Encryption",
+      "D": "File Compression"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 214,
+    "question": "Which international convention is designed to protect new plant varieties and promote plant breeding?",
+    "options": {
+      "A": "UPOV Convention",
+      "B": "TRIPS Agreement",
+      "C": "Paris Convention",
+      "D": "Berne Convention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 215,
+    "question": "What is the maximum period for applying to restore a lapsed patent due to non-payment of renewal fees?",
+    "options": {
+      "A": "18 months",
+      "B": "24 months",
+      "C": "6 months",
+      "D": "12 months"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 216,
+    "question": "What is an electronic signature?",
+    "options": {
+      "A": "Any form of signature used in electronic communication",
+      "B": ") A physical signature scanned into a digital format",
+      "C": "An encrypted code used for signing digital documents",
+      "D": "A signature created with a stylus or mouse on a digital device"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 217,
+    "question": "What does the TRIPS Agreement require member countries to establish regarding enforcement of IP rights?",
+    "options": {
+      "A": "Effective measures to enforce IP rights and prevent infringements",
+      "B": "Harmonized IP court procedures",
+      "C": "Minimum penalties for IP violations",
+      "D": "Uniform international IP laws"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 218,
+    "question": "Which system is employed in patent law that prioritizes the first person to file a patent application?",
+    "options": {
+      "A": "First to file",
+      "B": "First to invent",
+      "C": "First to publish",
+      "D": "First to market"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 219,
+    "question": "Which of the following is a characteristic of a digital signature?",
+    "options": {
+      "A": "It uses a private key to sign and a public key to verify",
+      "B": "It is typically used for physical documents",
+      "C": "It can be easily forged",
+      "D": "It does not require encryption"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 220,
+    "question": "Which international organization is responsible for promoting the development and use of international patent laws?",
+    "options": {
+      "A": "World Intellectual Property Organization (WIPO)",
+      "B": "World Trade Organization (WTO)",
+      "C": "International Court of Justice (ICJ)",
+      "D": "World Bank"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 221,
+    "question": "What could jeopardize the chance of obtaining a patent?",
+    "options": {
+      "A": "Publishing the invention before applying for a patent",
+      "B": "Consulting a patent agent",
+      "C": "Filing the application early",
+      "D": "Keeping the invention secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 222,
+    "question": "Which component of a digital signature is kept secret?",
+    "options": {
+      "A": "Private key",
+      "B": "Public key",
+      "C": "Certificate Authority (CA)",
+      "D": "Hash value"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 223,
+    "question": "Which agreement provides a framework for the international protection of industrial designs, including their registration and enforcement?",
+    "options": {
+      "A": "Hague Agreement",
+      "B": "Lisbon Agreement",
+      "C": "Madrid Protocol",
+      "D": "TRIPS Agreement"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 224,
+    "question": "What is advisable for inventors to file as soon as their idea takes a definite shape?",
+    "options": {
+      "A": "Provisional Specification",
+      "B": "Complete Specification",
+      "C": "Final Examination Report",
+      "D": "Renewal Application"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 225,
+    "question": "What role does a Certificate Authority (CA) play in digital signatures?",
+    "options": {
+      "A": "It validates and issues digital certificates",
+      "B": "It generates private keys",
+      "C": "It encrypts documents",
+      "D": "It stores digital signatures"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 226,
+    "question": "Which treaty requires its members to protect traditional knowledge, folklore, and cultural expressions?",
+    "options": {
+      "A": "No specific international treaty exists for this purpose",
+      "B": "TRIPS Agreement",
+      "C": "Berne Convention",
+      "D": "Paris Convention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 227,
+    "question": "Which form is used for requesting early publication of a patent application?",
+    "options": {
+      "A": "Form 9",
+      "B": "Form 1",
+      "C": "Form 5",
+      "D": "Form 18"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 228,
+    "question": "Which standard is commonly used for digital signatures in the context of the IT Act, 2000 in India?",
+    "options": {
+      "A": "X.509",
+      "B": "SHA-256",
+      "C": "ISO 27001",
+      "D": "RSA"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 229,
+    "question": "Which treaty governs the protection of performances and phonograms?",
+    "options": {
+      "A": "Rome Convention",
+      "B": "Paris Convention",
+      "C": "Berne Convention",
+      "D": "Madrid Protocol"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 230,
+    "question": "Which document must be submitted if the priority date is claimed in a convention application?",
+    "options": {
+      "A": "Priority document",
+      "B": "Declaration of inventorship",
+      "C": "Abstract of the invention",
+      "D": "Power of attorney"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 231,
+    "question": "Which of the following statements is true about electronic signatures under the IT Act, 2000?",
+    "options": {
+      "A": "Electronic signatures are equivalent to handwritten signatures",
+      "B": "Electronic signatures must be encrypted for security",
+      "C": "Electronic signatures require physical presence for verification",
+      "D": "Electronic signatures are not legally recognized"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 232,
+    "question": "Which type of IP right is granted for a creative work, such as a book or a song?",
+    "options": {
+      "A": "Copyright",
+      "B": "Trademark",
+      "C": "Trade Secret",
+      "D": "Patent"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 233,
+    "question": "Which of the following cannot be patented?",
+    "options": {
+      "A": "Aesthetic creations",
+      "B": "A new and useful machine",
+      "C": "A new substance produced by manufacture",
+      "D": "A process to improve a known apparatus"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 234,
+    "question": "Which section of the IT Act, 2000 deals with the appointment of the Controller of Certifying Authorities?",
+    "options": {
+      "A": "Section 18",
+      "B": "Section 20",
+      "C": "Section 21",
+      "D": "Section 19"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 235,
+    "question": "What is the purpose of the World Trade Organization\u2019s (WTO) Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)?",
+    "options": {
+      "A": "To standardize IP protection and enforcement across member countries",
+      "B": "To eliminate trade barriers related to intellectual property",
+      "C": "To encourage countries to avoid IP enforcement",
+      "D": "To create an international IP court"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 236,
+    "question": "How many copies of the application form are required for filing a patent application?",
+    "options": {
+      "A": "Three",
+      "B": "Four",
+      "C": "One",
+      "D": "Two"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 237,
+    "question": "Which of the following is an example of an electronic signature?",
+    "options": {
+      "A": "A typed name at the end of an email",
+      "B": "A digital certificate",
+      "C": "A handwritten signature scanned into a PDF",
+      "D": "An encrypted hash value"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 238,
+    "question": "Which international body deals with disputes related to the TRIPS Agreement?",
+    "options": {
+      "A": "World Trade Organization Dispute Settlement Body",
+      "B": "International Court of Justice",
+      "C": "World Intellectual Property Organization",
+      "D": "International Trade Centre"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 239,
+    "question": "What is the penalty for not meeting the objections in the First Examination Report (FER) within 12 months?",
+    "options": {
+      "A": "The application is deemed abandoned",
+      "B": "Fine is imposed",
+      "C": "Patent is granted automatically",
+      "D": "The application is sent for re-examination"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 240,
+    "question": "What is the primary advantage of using digital signatures over traditional handwritten signatures?",
+    "options": {
+      "A": "They provide a higher level of security and verification",
+      "B": "They are easier to forge",
+      "C": "They can be used for physical documents",
+      "D": "They require no encryption"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 241,
+    "question": "Which treaty addresses the protection of plant varieties and promotes the rights of plant breeders?",
+    "options": {
+      "A": "UPOV Convention",
+      "B": "Hague Agreement",
+      "C": "Lisbon Agreement",
+      "D": "Paris Convention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 242,
+    "question": "What section of the Patent Act outlines the grounds for opposition?",
+    "options": {
+      "A": "Section 25",
+      "B": "Section 43",
+      "C": "Section 7",
+      "D": "Section 9"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 243,
+    "question": "Which of the following is NOT a common use of digital signatures?",
+    "options": {
+      "A": "Encrypting email content",
+      "B": "Verifying the authenticity of digital documents",
+      "C": "Ensuring data integrity",
+      "D": "Providing proof of identity"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 244,
+    "question": "The TRIPS Agreement is part of which larger international organization\u2019s agreements?",
+    "options": {
+      "A": "World Trade Organization (WTO",
+      "B": "United Nations (UN)",
+      "C": "World Intellectual Property Organization (WIPO)",
+      "D": "International Monetary Fund (IMF)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 245,
+    "question": "Which form is required for filing a post-grant opposition?",
+    "options": {
+      "A": "Form 7",
+      "B": "Form 18",
+      "C": "Form 5",
+      "D": "Form 9"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 246,
+    "question": "Which law or regulation governs the use of digital signatures in India?",
+    "options": {
+      "A": "The IT Act, 2000",
+      "B": "The Digital Signature Act",
+      "C": "The Cybersecurity Act",
+      "D": "The Data Protection Act"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 247,
+    "question": "Which of the following agreements is designed to harmonize international copyright laws?",
+    "options": {
+      "A": "Berne Convention",
+      "B": "Paris Convention",
+      "C": "Rome Convention",
+      "D": "Hague Agreement"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 248,
+    "question": "What is one common mistake made by inventors that could harm their patent application?",
+    "options": {
+      "A": "Publicly disclosing the invention before filing for a patent",
+      "B": "Hiring a patent agent",
+      "C": "Filing the patent too early",
+      "D": "Filing without a power of attorney"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 249,
+    "question": "In the context of digital signatures, what does the term \"hash function\" refer to?",
+    "options": {
+      "A": "A method to create a unique fingerprint of data",
+      "B": "A type of digital certificate",
+      "C": "A technique to encrypt data",
+      "D": "A service provided by Certificate Authorities"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 250,
+    "question": "What is the primary goal of IP management within a company?",
+    "options": {
+      "A": "To maximize the value and strategic use of intellectual property",
+      "B": "To reduce the number of patents",
+      "C": "To avoid IP litigation",
+      "D": "To register all IP globally"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 251,
+    "question": "What is a key consideration when deciding where to patent an invention?",
+    "options": {
+      "A": "Where the product is likely to be commercialized",
+      "B": "Where the inventor's family lives",
+      "C": "Where the inventor vacations",
+      "D": "Where the inventor's competitors are located"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 252,
+    "question": "What is the purpose of the public key in digital signatures?",
+    "options": {
+      "A": "To verify the signature",
+      "B": "To store the signature",
+      "C": "To encrypt the signature",
+      "D": "To generate the signature"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 253,
+    "question": "Which IP management strategy involves using IP assets to generate revenue through licensing agreements?",
+    "options": {
+      "A": "IP Monetization",
+      "B": "IP Protection",
+      "C": "IP Enforcement",
+      "D": "IP Valuation"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 254,
+    "question": "Which route involves filing a patent application in each country individually?",
+    "options": {
+      "A": "National route",
+      "B": "International route",
+      "C": "Regional route",
+      "D": "Global route"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 255,
+    "question": "Which document format commonly supports digital signatures?",
+    "options": {
+      "A": "PDF",
+      "B": "HTML",
+      "C": "JPEG",
+      "D": "TXT"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 256,
+    "question": "How can trademarks be used effectively in marketing?",
+    "options": {
+      "A": "By creating brand recognition and differentiation",
+      "B": "By registering them in only one country",
+      "C": "By keeping them confidential",
+      "D": "By avoiding any use in advertising"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 257,
+    "question": "What does licensing a patent involve?",
+    "options": {
+      "A": "Granting permission to another party to use the patented invention",
+      "B": "Filing a patent in multiple countries",
+      "C": "Selling the patent outright",
+      "D": "Manufacturing the product yourself"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 258,
+    "question": "What does the term \"non-repudiation\" mean in the context of digital signatures?",
+    "options": {
+      "A": "The signer cannot deny having signed the document",
+      "B": "The signature can be easily removed",
+      "C": "The document can be altered after signing",
+      "D": "The signature can be replicated without authorization"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 259,
+    "question": "What is a common way to use patents in marketing?",
+    "options": {
+      "A": "By showcasing patented technology in promotional materials",
+      "B": "By keeping the invention details secret",
+      "C": "By avoiding patent registration",
+      "D": "By using patents only for internal R&D purposes"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 260,
+    "question": "What is an advantage of licensing a patent?",
+    "options": {
+      "A": "It provides an additional source of revenue",
+      "B": "It reduces legal costs",
+      "C": "It simplifies the patent process",
+      "D": "It limits the market reach of the invention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 261,
+    "question": "Which technology ensures that a digital signature is associated with a specific document and signer?",
+    "options": {
+      "A": "Time stamping",
+      "B": "Encryption",
+      "C": "Hashing",
+      "D": "Watermarking"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 262,
+    "question": "Which of the following is a benefit of using IP in marketing strategies?",
+    "options": {
+      "A": "Enhanced competitive advantage",
+      "B": "Limited market reach",
+      "C": "Increased legal costs",
+      "D": "Reduced brand value"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 263,
+    "question": "What is an exclusive license?",
+    "options": {
+      "A": "A single licensee has the right to use the patented technology",
+      "B": "Multiple licensees share the rights",
+      "C": "The patent owner retains full rights",
+      "D": "The patent owner cannot use the technology"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 264,
+    "question": "What is an essential feature of a digital signature that makes it different from a simple electronic signature?",
+    "options": {
+      "A": "Digital signatures use cryptographic techniques",
+      "B": "Digital signatures require a physical pen",
+      "C": "Digital signatures are less secure",
+      "D": "Digital signatures are used only for email communications"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 265,
+    "question": "How long does a typical patent last?",
+    "options": {
+      "A": "20 years",
+      "B": "14 years",
+      "C": "25 years",
+      "D": "Life of the author and 50 years after death"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 266,
+    "question": "In which of the following cases is a patent not advisable?",
+    "options": {
+      "A": "When the invention is easy to reverse engineer",
+      "B": "When there is a high market potential",
+      "C": "When investors are interested in the invention",
+      "D": "When the invention aligns with business strategy"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 267,
+    "question": "The IT Act, 2000 was amended by which act to include provisions related to cyber terrorism?",
+    "options": {
+      "A": "IT (Amendment) Act, 2006",
+      "B": "IT (Amendment) Act, 2010",
+      "C": "IT (Amendment) Act, 2013",
+      "D": "IT (Amendment) Act, 2015"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 268,
+    "question": "What role does IP management play in the branding process?",
+    "options": {
+      "A": "It ensures the protection and strategic use of brand assets",
+      "B": "It focuses solely on legal issues",
+      "C": "It eliminates the need for branding",
+      "D": "It restricts the use of brand names"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 269,
+    "question": "What is cross-licensing?",
+    "options": {
+      "A": "Two competitors exchange rights to each other's patents",
+      "B": "Selling the patent to the highest bidder",
+      "C": "Licensing to multiple companies",
+      "D": "Licensing without any fees"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 270,
+    "question": "What does the term \"digital certificate\" refer to in the context of digital signatures?",
+    "options": {
+      "A": "A file containing the public key and identity of the certificate holder",
+      "B": "A document signed with a digital signature",
+      "C": "A type of encryption algorithm",
+      "D": "A digital representation of a handwritten signature"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 271,
+    "question": "How can trade secrets be utilized in marketing?",
+    "options": {
+      "A": "By keeping them confidential to maintain competitive advantage",
+      "B": "By publicly disclosing them to competitors",
+      "C": "By registering them as patents",
+      "D": "By using them only in internal communications"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 272,
+    "question": "What is a compulsory license?",
+    "options": {
+      "A": "A government-mandated license when public interest is involved",
+      "B": "A license that is automatically granted after three years",
+      "C": "A license that is required in every country",
+      "D": "A license granted by the patent owner under pressure"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 273,
+    "question": "Which of the following is an example of a cybercrime?",
+    "options": {
+      "A": "Identity theft",
+      "B": "Physical theft",
+      "C": "Vandalism of property",
+      "D": "Bank robbery"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 274,
+    "question": "What is the impact of IP management on a company's market position?",
+    "options": {
+      "A": "It can strengthen market position through effective IP use",
+      "B": "It weakens the market position by increasing costs",
+      "C": "It reduces market opportunities",
+      "D": "It has no impact"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 275,
+    "question": "When can a compulsory license be terminated under Indian law?",
+    "options": {
+      "A": "If the circumstances that led to its grant no longer exist",
+      "B": "Only after the patent expires",
+      "C": "When the patent owner demands it",
+      "D": "After five years of the license being in effect"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 276,
+    "question": "What does the term 'phishing' refer to in the context of cybercrimes?",
+    "options": {
+      "A": "Fraudulent attempts to obtain sensitive information through deceptive emails or websites",
+      "B": "Hacking into networks",
+      "C": "Stealing physical hardware",
+      "D": "Planting malware on a device"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 277,
+    "question": "Which IP asset is crucial for creating a unique brand identity?",
+    "options": {
+      "A": "Trademark",
+      "B": "Patent",
+      "C": "Copyright",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 278,
+    "question": "What is considered an infringement of a patent?",
+    "options": {
+      "A": "Unauthorized use of the patented invention",
+      "B": "Improving upon the patented invention",
+      "C": "Filing a patent in another country",
+      "D": "Using the invention with the owner's consent"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 279,
+    "question": "Which law addresses cybercrimes in India?",
+    "options": {
+      "A": "The IT Act, 2000",
+      "B": "The Indian Penal Code (IPC)",
+      "C": "The Cybersecurity Act",
+      "D": "The Data Protection Act"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 280,
+    "question": "How can IP management assist in entering new markets?",
+    "options": {
+      "A": "By ensuring IP protection and compliance in new regions",
+      "B": "By ignoring local IP laws",
+      "C": "By avoiding IP registrations in new markets",
+      "D": "By relying solely on existing IP protections"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 281,
+    "question": "What must an inventor provide to a patent attorney for effective patent drafting?",
+    "options": {
+      "A": "Complete details of the invention, including failures",
+      "B": "Only the successful parts of the invention",
+      "C": "Only the final product",
+      "D": "A summary of the invention"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 282,
+    "question": "What is 'ransomware'?",
+    "options": {
+      "A": "payment for decryption",
+      "B": "Software that improves system performance",
+      "C": "A type of firewall",
+      "D": "An anti-virus program"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 283,
+    "question": "Which strategy involves leveraging IP to form strategic partnerships and collaborations?",
+    "options": {
+      "A": "IP Licensing",
+      "B": "IP Enforcement",
+      "C": "IP Auditing",
+      "D": "IP Dispute Resolution"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 284,
+    "question": "What does Section 107A of the Indian Patent Act state?",
+    "options": {
+      "A": "Certain acts related to development and submission of information are not considered infringement",
+      "B": "All uses of a patented invention are considered infringement",
+      "C": "Infringement can only occur in the country of the patent holder",
+      "D": "Importing patented products is illegal"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 285,
+    "question": "Which section of the IT Act, 2000 deals with 'punishment for identity theft'?",
+    "options": {
+      "A": "Section 66C",
+      "B": "Section 66D",
+      "C": "Section 66A",
+      "D": "Section 66B"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 286,
+    "question": "What is the role of IP valuation in marketing?",
+    "options": {
+      "A": "It helps in determining the financial worth of IP assets for investment or sale",
+      "B": "It avoids any financial assessment of IP assets",
+      "C": "It restricts IP use to internal purposes",
+      "D": "It focuses on legal compliance only"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 287,
+    "question": "What relief can a patentee seek in case of infringement under Indian law?",
+    "options": {
+      "A": "Injunction and damages",
+      "B": "License cancellation",
+      "C": "Public apology from the infringer",
+      "D": "Patent revocation"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 288,
+    "question": "What is 'DDoS' an acronym for in cybercrimes?",
+    "options": {
+      "A": "Distributed Denial of Service",
+      "B": "Direct Denial of Service",
+      "C": "Distributed Data Service",
+      "D": "Direct Data Service"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 289,
+    "question": "Which IP type can be used to protect original content such as literature and art?",
+    "options": {
+      "A": "Copyright",
+      "B": "Patent",
+      "C": "Trademark",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 290,
+    "question": "What is one advantage of arbitration in patent disputes?",
+    "options": {
+      "A": "It is less formal and shorter than court proceedings",
+      "B": "It allows public scrutiny",
+      "C": "It is always free of charge",
+      "D": "It guarantees a favourable outcome for the patentee"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 291,
+    "question": "Which of the following is a common method used in 'social engineering' attacks?",
+    "options": {
+      "A": "Manipulating individuals to divulge confidential information",
+      "B": "Installing malware",
+      "C": "Exploiting vulnerabilities in software",
+      "D": "Cracking encryption codes"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 292,
+    "question": "How can companies use IP portfolios to enhance their market strategy?",
+    "options": {
+      "A": "By leveraging them to attract investors and partners",
+      "B": "By keeping IP portfolios undisclosed",
+      "C": "By avoiding IP portfolio management",
+      "D": "By reducing the number of IP assets"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 293,
+    "question": "Why might a company choose to send a \u2018cease and desist letter\u2019?",
+    "options": {
+      "A": "To inform the alleged infringer of a potential patent conflict",
+      "B": "To revoke the infringer's patent",
+      "C": "To license the patent to the infringer",
+      "D": "To initiate a criminal case"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 294,
+    "question": "Which type of malware is designed to gain unauthorized access to a system and monitor user activities?",
+    "options": {
+      "A": "Spyware",
+      "B": "Trojan horse",
+      "C": "Virus",
+      "D": "Worm"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 295,
+    "question": "What is a key consideration in managing IP for global marketing?",
+    "options": {
+      "A": "Ensuring IP protection in each target market",
+      "B": "Ignoring international IP laws",
+      "C": "Limiting IP registration to domestic markets",
+      "D": "Avoiding any IP protection measures"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 296,
+    "question": "What is the purpose of a \u2018cease and desist letter\u2019?",
+    "options": {
+      "A": "To stop infringing activities",
+      "B": "To terminate a patent",
+      "C": "To grant a license",
+      "D": "To enforce a compulsory license"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 297,
+    "question": "What is the primary objective of 'SQL injection' attacks?",
+    "options": {
+      "A": "To exploit vulnerabilities in web applications",
+      "B": "To bypass firewalls",
+      "C": "To encrypt user files",
+      "D": "To steal user passwords"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 298,
+    "question": "Which IP right can last indefinitely as long as it is in use and renewed?",
+    "options": {
+      "A": "Trademark",
+      "B": "Copyright",
+      "C": "Patent",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 299,
+    "question": "Who typically owns the rights to a patent in the case of an employee invention?",
+    "options": {
+      "A": "The employer",
+      "B": "Both the employee and employer jointly",
+      "C": "The employee",
+      "D": "The government"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 300,
+    "question": "Which section of the IT Act, 2000 addresses \u2018Intermediary Liability\u2019?",
+    "options": {
+      "A": "Section 79",
+      "B": "Section 80",
+      "C": "Section 81",
+      "D": "Section 82"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 301,
+    "question": "How can IP management contribute to brand loyalty?",
+    "options": {
+      "A": "By creating and maintaining a strong and recognizable brand",
+      "B": "By reducing the visibility of IP assets",
+      "C": "By solely focusing on internal IP management",
+      "D": "By ignoring brand-related IP issues"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 302,
+    "question": "Which organization provides services for alternative dispute resolution?",
+    "options": {
+      "A": "World Intellectual Property Organization (WIPO)",
+      "B": "World Trade Organization (WTO)",
+      "C": "European Patent Office (EPO)",
+      "D": "International Monetary Fund (IMF)"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 303,
+    "question": "What is 'cyberstalking'?",
+    "options": {
+      "A": "Using electronic communication to harass or intimidate someone",
+      "B": "Tracking online purchases",
+      "C": "Unauthorized access to social media accounts",
+      "D": "Hacking into government databases"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 304,
+    "question": "Which IP management activity helps in protecting a company\u2019s market share?",
+    "options": {
+      "A": "IP Enforcement",
+      "B": "IP Infringement",
+      "C": "IP Abandonment",
+      "D": "IP Violation"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 305,
+    "question": "What is the role of the WIPO Arbitration and Mediation Centre?",
+    "options": {
+      "A": "To provide alternative dispute resolution services",
+      "B": "To file patents internationally",
+      "C": "To enforce patent laws",
+      "D": "To draft patent agreements"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 306,
+    "question": "Which section of the IT Act, 2000 deals with the 'punishment for sending offensive messages'?",
+    "options": {
+      "A": "Section 66A",
+      "B": "Section 66B",
+      "C": "Section 66",
+      "D": "Section 66C"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 307,
+    "question": "What is a strategic use of IP in product development and marketing?",
+    "options": {
+      "A": "Using IP to differentiate products and enhance market appeal",
+      "B": "Avoiding IP registrations to reduce costs",
+      "C": "Keeping IP assets undisclosed to competitors",
+      "D": "Reducing R&D investments"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 308,
+    "question": "Which article of the TRIPS agreement provides for the right to information in infringement cases?",
+    "options": {
+      "A": "Article 47",
+      "B": "Article 45",
+      "C": "Article 46",
+      "D": "Article 44"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 309,
+    "question": "What is 'cryptojacking'?",
+    "options": {
+      "A": "Unauthorized use of someone's computer to mine cryptocurrency",
+      "B": "A method to steal cryptocurrencies",
+      "C": "Encrypting files for ransom",
+      "D": "Hacking into crypto exchanges"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 310,
+    "question": "Which IP management tool can help track and manage IP assets effectively?",
+    "options": {
+      "A": "IP Dashboard",
+      "B": "IP Compliance Checklist",
+      "C": "IP Enforcement Handbook",
+      "D": "IP Litigation Report"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 311,
+    "question": "What is the primary function of a trademark?",
+    "options": {
+      "A": "To identify the source of goods or services",
+      "B": "To increase product prices",
+      "C": "To protect intellectual property",
+      "D": "To advertise a company"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 312,
+    "question": "What is a 'zero-day exploit'?",
+    "options": {
+      "A": "A vulnerability in software that is exploited before a fix is available",
+      "B": "A type of anti-virus software",
+      "C": "An email scam",
+      "D": "A zero-value financial scam"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 313,
+    "question": "How can companies use IP to create competitive barriers in the market?",
+    "options": {
+      "A": "By enforcing IP rights and protecting key assets",
+      "B": "By avoiding IP registrations",
+      "C": "By sharing IP with competitors",
+      "D": "By reducing IP protection efforts"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 314,
+    "question": "Which of the following can be registered as a trademark in some countries?",
+    "options": {
+      "A": "Shapes of products",
+      "B": "Generic terms",
+      "C": "Flags of nations",
+      "D": "Personal names"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 315,
+    "question": "Which of the following best describes 'credential stuffing'?",
+    "options": {
+      "A": "Using stolen usernames and passwords to gain unauthorized access",
+      "B": "Reusing passwords across multiple sites",
+      "C": "Overloading a network with requests",
+      "D": "Installing ransomware on a system"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 316,
+    "question": "If you write an original story, what type of intellectual property gives you the right to decide who can make and sell copies of your work?",
+    "options": {
+      "A": "Copyright",
+      "B": "Patent",
+      "C": "Trademark",
+      "D": "Trade Secret"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 317,
+    "question": "Which of the following is NOT a characteristic of a trademark?",
+    "options": {
+      "A": "It should be descriptive of the product and its basic component/ingredients",
+      "B": "It must be distinctive",
+      "C": "It should be easy to spell and pronounce",
+      "D": "It should be easy to register"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 318,
+    "question": "What is 'man-in-the-middle' attack?",
+    "options": {
+      "A": "An attack where the attacker intercepts and possibly alters communication between two parties without their knowledge",
+      "B": "An attack that involves injecting code into an application",
+      "C": "An attack that shuts down a server",
+      "D": "An attack that manipulates database queries"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 319,
+    "question": "What does a trademark protect?",
+    "options": {
+      "A": "Logos, Names and Brands",
+      "B": "An invention",
+      "C": "A work of Art",
+      "D": "Look and Feel of the Product"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 320,
+    "question": "What is a service mark?",
+    "options": {
+      "A": "A mark used to distinguish services",
+      "B": "A trademark used for products",
+      "C": "A certification mark",
+      "D": "A well-known mark"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 321,
+    "question": "Which of the following is an example of a phishing scam?",
+    "options": {
+      "A": "An email that appears to be from a legitimate source asking for login credentials",
+      "B": "A computer virus that corrupts files",
+      "C": "A device that monitors network traffic",
+      "D": "A website that offers free software downloads"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 322,
+    "question": "Which of these is a Geographical Indication?",
+    "options": {
+      "A": "Havana Cigars",
+      "B": "BMW",
+      "C": "Play Station",
+      "D": "World Wide Web"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 323,
+    "question": "What is the validity period of a registered trademark?",
+    "options": {
+      "A": "10 years and renewable",
+      "B": "5 years and renewable",
+      "C": "15 years and non-renewable",
+      "D": "20 years and then expires"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 324,
+    "question": "Which section of the IT Act, 2000 is concerned with 'punishment for cyber terrorism'?",
+    "options": {
+      "A": "Section 66F",
+      "B": "Section 66D",
+      "C": "Section 66C",
+      "D": "Section 66E"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 325,
+    "question": "Under which type of agreement royalty is paid on the basis of total sale price?",
+    "options": {
+      "A": "Copyright",
+      "B": "Traditional Knowledge",
+      "C": "Trademark",
+      "D": "Patent"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 326,
+    "question": "Which type of mark is a coined or invented word with no intrinsic meaning?",
+    "options": {
+      "A": "Fanciful mark",
+      "B": "Descriptive mark",
+      "C": "Suggestive mark",
+      "D": "Arbitrary mark"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 327,
+    "question": "What is 'data breach'?",
+    "options": {
+      "A": "Unauthorized access to or disclosure of sensitive data",
+      "B": "Mismanagement of data storage",
+      "C": "Data loss due to hardware failure",
+      "D": "Data corruption from software bugs"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 328,
+    "question": "Intellectual Property Rights protect the use of the information and expression of ideas that are of....",
+    "options": {
+      "A": "Commercial Value",
+      "B": "Moral Value",
+      "C": "Ethical Value",
+      "D": "Social Value"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 329,
+    "question": "Which of the following is NOT allowed for trademark registration in most jurisdictions?",
+    "options": {
+      "A": "A generic term",
+      "B": "A suggestive word",
+      "C": "A coined word",
+      "D": "A three-dimensional shape"
+    },
+    "correct_option": "A"
+  },
+  {
+    "question_no": 330,
+    "question": "Which of the following is a preventive measure against cybercrimes?",
+    "options": {
+      "A": "Regularly updating software and systems",
+      "B": "Using outdated software",
+      "C": "Sharing passwords with others",
+      "D": "Ignoring security alerts"
+    },
+    "correct_option": "A"
+  }
+]
