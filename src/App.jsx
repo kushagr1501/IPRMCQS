@@ -3,12 +3,15 @@ import questionsData from "./data/unit1_mcqs.json";
 import QuestionCard from "./QuestionCard";
 
 
+import ReactGA from "react-ga4";
+ReactGA.initialize("G-5R65HLLNLP");
 export default function App() {
   const [questions, setQuestions] = useState([]);
   const [score, setScore] = useState(0);
   const [answeredCount, setAnsweredCount] = useState(0);
 
   useEffect(() => {
+    ReactGA.send({ hitType: "pageview", page: window.location.pathname });
     const shuffledQuestions = questionsData.map((q) => {
       const optionsArray = Object.entries(q.options).map(([label, text]) => ({
         label,
