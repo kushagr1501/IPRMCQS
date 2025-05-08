@@ -4,7 +4,7 @@ import QuestionCard from "./QuestionCard";
 
 
 import ReactGA from "react-ga4";
-ReactGA.initialize("G-5R65HLLNLP");
+ReactGA.initialize('G-5R65HLLNLP');
 export default function App() {
   const [questions, setQuestions] = useState([]);
   const [score, setScore] = useState(0);
