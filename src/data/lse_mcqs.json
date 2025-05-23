@@ -1,0 +1,2642 @@
+[
+    {
+        "question_no": 1,
+        "question": "………………… are defined as psychological abilities for adaptive and positive behaviors.",
+        "options": {
+            "A": "Life skills",
+            "B": "Recreational skills",
+            "C": "Soft skills",
+            "D": "Vocational skills"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 2,
+        "question": "The values of life skills include",
+        "options": {
+            "A": "All of these",
+            "B": "Concerned about the welfare of others",
+            "C": "Capable of having an influence on the world",
+            "D": "Aware of their rights and responsibilities"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 3,
+        "question": "………………… defined as the feeling of pity and sorrow for someone else's misfortune:",
+        "options": {
+            "A": "Sympathy",
+            "B": "Empathy",
+            "C": "Values",
+            "D": "Courtesy"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 4,
+        "question": "Which term refers to relationships or communication that occurs between two or more people?",
+        "options": {
+            "A": "Interpersonal",
+            "B": "Intra-personal",
+            "C": "Intimate",
+            "D": "Cordial"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 5,
+        "question": "………………… refers to the ability to recognize, understand, and manage one's own emotions as well as the emotions of others",
+        "options": {
+            "A": "EQ",
+            "B": "SQ",
+            "C": "IQ",
+            "D": "PQ"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 6,
+        "question": "……………… are activities structured to feel like real experiences?",
+        "options": {
+            "A": "Simulations",
+            "B": "Communication",
+            "C": "Drama",
+            "D": "Skills"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 7,
+        "question": "………… method is used to enhance life skills.",
+        "options": {
+            "A": "audio-visual activities",
+            "B": "Stress",
+            "C": "self-unawareness",
+            "D": "MBIT"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 8,
+        "question": "Critical thinking requires basic qualities such as:",
+        "options": {
+            "A": "All of these",
+            "B": "Flexibility",
+            "C": "Persistence",
+            "D": "Open-mindedness"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 9,
+        "question": "The life skills approach encompasses and balances all the three components, namely Knowledge, Skills and _______.",
+        "options": {
+            "A": "Attitudes",
+            "B": "Empathy",
+            "C": "Sympathy",
+            "D": "Apathy"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 10,
+        "question": "…….. is a novel way of seeing or doing things that generates new ideas, has a shifting perspective, conceives something new, and builds on other ideas.",
+        "options": {
+            "A": "Critical thinking",
+            "B": "Creative thinking",
+            "C": "Self-awareness",
+            "D": "sympathy"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 11,
+        "question": "…….. is the translation of the German term Einfühlung, meaning, 'to feel as one with'",
+        "options": {
+            "A": "Empathy",
+            "B": "Sympathetic",
+            "C": "Sympathy",
+            "D": "Empathetic"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 12,
+        "question": "According to Daniel Goleman, \"……………… is a master aptitude, a capacity that profoundly affects all other abilities, either facilitating or interfering.\"",
+        "options": {
+            "A": "Emotional intelligence",
+            "B": "Creative thinking",
+            "C": "Interpersonal Skills",
+            "D": "Critical thinking"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 13,
+        "question": "…….. skills are important for relating positively with people we interact with.",
+        "options": {
+            "A": "Interpersonal Skills",
+            "B": "Creative thinking",
+            "C": "Critical thinking",
+            "D": "Empathy"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 14,
+        "question": "Determining alternative solutions to a problem is related to ……………skill.",
+        "options": {
+            "A": "problem solving skills",
+            "B": "refusal skills",
+            "C": "Critical thinking",
+            "D": "effective communication skill"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 15,
+        "question": "Life skills help people establish productive …………………. relationships.",
+        "options": {
+            "A": "Interpersonal",
+            "B": "Social",
+            "C": "Cultural",
+            "D": "Personal"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 16,
+        "question": "An individual must be able to evaluate the future consequences of their present actions. This is an example of………. skill.",
+        "options": {
+            "A": "critical thinking skill",
+            "B": "inter-personal skill",
+            "C": "Communication skill",
+            "D": "None of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 17,
+        "question": "……………. skill includes the verbal and non-verbal aspects.",
+        "options": {
+            "A": "Communication",
+            "B": "Advocacy",
+            "C": "Decision making",
+            "D": "Problem solving"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 18,
+        "question": "What term best describes a person who recognizes and believes in their own worth and abilities?",
+        "options": {
+            "A": "Self-confidence",
+            "B": "Self-worth",
+            "C": "Self-evaluation",
+            "D": "Self-knowledge"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 19,
+        "question": "Life skill education provides a foundation for adults' ……….behavior.",
+        "options": {
+            "A": "Social",
+            "B": "Psychological",
+            "C": "Economic",
+            "D": "Cultural"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 20,
+        "question": "Self-evaluation skills help to set…………",
+        "options": {
+            "A": "Goals",
+            "B": "Carrier",
+            "C": "Education",
+            "D": "Family"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 21,
+        "question": "Development of life skills enables the adolescent to be …………….in society.",
+        "options": {
+            "A": "Accepted",
+            "B": "Passive",
+            "C": "Active",
+            "D": "Rejected"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 22,
+        "question": "Ability to express feelings and provide feedback is related to ……………skills.",
+        "options": {
+            "A": "Interpersonal skill",
+            "B": "Management skill",
+            "C": "Motivational skill",
+            "D": "Decision-making skill"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 23,
+        "question": "Active listening is an example of …...ability.",
+        "options": {
+            "A": "Interpersonal",
+            "B": "Cultural",
+            "C": "Personal",
+            "D": "Social"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 24,
+        "question": "Positive thinking will help to manage …………….",
+        "options": {
+            "A": "Stress",
+            "B": "Super Ego",
+            "C": "Happiness",
+            "D": "We-feeling"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 25,
+        "question": ".......... focuses not only on knowledge and attitude change but, more importantly, on behavior change.",
+        "options": {
+            "A": "life skill education",
+            "B": "formal education",
+            "C": "Informal education",
+            "D": "adult education"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 26,
+        "question": "Which of the following refers to abilities that support adaptive and positive behavior, helping individuals effectively manage life's demands and challenges?",
+        "options": {
+            "A": "Thinking",
+            "B": "Attitude",
+            "C": "Creativity",
+            "D": "Life skills"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 27,
+        "question": "Critical thinking means..........",
+        "options": {
+            "A": "Higher level thinking that aims to solve a problem.",
+            "B": "Logically analyzing arguments in a critical way.",
+            "C": "Finding faults and weaknesses in other people's arguments.",
+            "D": "Disciplined thinking and judgment"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 28,
+        "question": "According to Hoffman, everyone is born with the capability of feeling ……...",
+        "options": {
+            "A": "pain",
+            "B": "sorrow",
+            "C": "Empathy",
+            "D": "entertainment"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 29,
+        "question": "Ability to perceive the visual",
+        "options": {
+            "A": "Pictures",
+            "B": "Visual intelligence",
+            "C": "See",
+            "D": "Hear"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 30,
+        "question": "……... the ability to use words and language",
+        "options": {
+            "A": "Elegancy",
+            "B": "Verbal intelligence",
+            "C": "Adequacy",
+            "D": "Critical thinking"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 31,
+        "question": "Thinking about other things while listening to others is called ………………….",
+        "options": {
+            "A": "Mind drift",
+            "B": "Inactive listening",
+            "C": "Listening mistake",
+            "D": "Passive listening"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 32,
+        "question": "……………. helps to capture the listener's attention.",
+        "options": {
+            "A": "Gesture",
+            "B": "Communication",
+            "C": "Message",
+            "D": "Hints"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 33,
+        "question": "Listening skills are a prerequisite for …………….",
+        "options": {
+            "A": "Group discussion",
+            "B": "Intra Personal Communication",
+            "C": "Speaking",
+            "D": "Public discussion"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 34,
+        "question": "…………….. is a conversation between two people.",
+        "options": {
+            "A": "Dialogue",
+            "B": "Debate",
+            "C": "Discussion",
+            "D": "Monologue"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 35,
+        "question": "The term 'self-esteem' comes from a …………….. word.",
+        "options": {
+            "A": "Greek",
+            "B": "French",
+            "C": "Latin",
+            "D": "Portuguese"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 36,
+        "question": "…………….. means pride in one's self-respect.",
+        "options": {
+            "A": "Self-esteem",
+            "B": "Self-appraisal",
+            "C": "Self-awareness",
+            "D": "Self-confidence"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 37,
+        "question": "…………….. is a clear perception of your personality.",
+        "options": {
+            "A": "Awareness",
+            "B": "Assessment",
+            "C": "Identity",
+            "D": "Control"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 38,
+        "question": "…………….. an ability to observe one's behavior, action, thoughts, feelings and emotions.",
+        "options": {
+            "A": "Self-awareness",
+            "B": "Self-identification",
+            "C": "Self-evaluation",
+            "D": "Self-assessment"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 39,
+        "question": "It is otherwise called self-discipline. (…………….. also called self-discipline.)",
+        "options": {
+            "A": "Self-control",
+            "B": "Self-identity",
+            "C": "Self-evaluation",
+            "D": "Self-assessment"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 40,
+        "question": "…………….. is internal processes that activate, guide, and maintain behavior.",
+        "options": {
+            "A": "Motivation",
+            "B": "Emotion",
+            "C": "Hard work",
+            "D": "Goal attainment"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 41,
+        "question": "The word SQ (Social Quotient) is originally coined by …………….",
+        "options": {
+            "A": "Edward Thorndike",
+            "B": "Ketron Aura",
+            "C": "Robert Sternberg",
+            "D": "Steven Vernon"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 42,
+        "question": "Time management is …………….",
+        "options": {
+            "A": "Planning how to divide time between activities",
+            "B": "Arranging appointments on a calendar",
+            "C": "Completing tasks as quickly as possible",
+            "D": "Setting strict schedules for each day"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 43,
+        "question": "Time management is important because …………….",
+        "options": {
+            "A": "It reduces stress and improves productivity",
+            "B": "It helps you avoid work entirely",
+            "C": "It allows you to work long hours without breaks",
+            "D": "It ensures you complete all tasks without any errors"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 44,
+        "question": "First step in effective time management is …………….",
+        "options": {
+            "A": "Identifying your goals",
+            "B": "Making a to-do list",
+            "C": "Prioritizing tasks",
+            "D": "Setting deadlines for each task"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 45,
+        "question": "…………….. is an example of a time-wasting activity.",
+        "options": {
+            "A": "Attending unnecessary meetings",
+            "B": "Taking breaks between tasks",
+            "C": "Checking emails at designated times",
+            "D": "Prioritizing important task"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 46,
+        "question": "How can you prioritize tasks effectively?",
+        "options": {
+            "A": "By working on tasks based on their complexity",
+            "B": "By working on tasks in the order they were received",
+            "C": "By working on tasks based on their urgency and importance",
+            "D": "By working on tasks that are easier to complete first"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 47,
+        "question": "How can saying \"no\" help with time management?",
+        "options": {
+            "A": "It allows you to focus on your own tasks and priorities",
+            "B": "It helps you avoid all commitments",
+            "C": "It prevents you from ever taking on new responsibilities",
+            "D": "It increases stress and workload"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 48,
+        "question": "What is the purpose of setting deadlines for tasks?",
+        "options": {
+            "A": "To create a sense of urgency and accountability",
+            "B": "To ensure tasks are completed as quickly as possible",
+            "C": "To allow for flexibility in task completion",
+            "D": "To measure your overall productivity"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 49,
+        "question": "Which is an example of multitasking?",
+        "options": {
+            "A": "Simultaneously working on multiple tasks",
+            "B": "Focusing on one task at a time",
+            "C": "Working on two tasks sequentially",
+            "D": "Juggling multiple tasks with no order"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 50,
+        "question": "How can you avoid procrastination?",
+        "options": {
+            "A": "By breaking tasks into smaller steps",
+            "B": "By setting unrealistic deadlines",
+            "C": "By taking frequent breaks",
+            "D": "By avoiding making to-do lists"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 51,
+        "question": "What is the purpose of time blocking?",
+        "options": {
+            "A": "To allocate specific time slots for different tasks",
+            "B": "To eliminate all distractions during work hours",
+            "C": "To work on tasks without taking breaks",
+            "D": "To limit the number of tasks to work on each day"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 52,
+        "question": "What is the goal of time management?",
+        "options": {
+            "A": "To make the most of available time",
+            "B": "To make time go by faster",
+            "C": "To complete tasks as quickly as possible",
+            "D": "To eliminate all breaks and free time"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 53,
+        "question": "How can delegating tasks help with time management?",
+        "options": {
+            "A": "It frees up time to focus on higher-priority tasks",
+            "B": "It allows you to procrastinate on tasks",
+            "C": "It avoids the need to prioritize tasks",
+            "D": "It reduces the overall workload"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 54,
+        "question": "What is the purpose of time management tools and software?",
+        "options": {
+            "A": "To help track and manage tasks efficiently",
+            "B": "To eliminate the need for setting deadlines",
+            "C": "To reduce productivity and create distractions",
+            "D": "To replace the need for prioritizing tasks"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 55,
+        "question": "Which is an example of an external time-wasting factor?",
+        "options": {
+            "A": "Frequent interruptions",
+            "B": "Procrastination",
+            "C": "Setting unrealistic goals",
+            "D": "Using time management techniques"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 56,
+        "question": "Which is an example of an internal time-wasting factor?",
+        "options": {
+            "A": "Procrastinating on tasks",
+            "B": "Setting realistic deadlines",
+            "C": "Prioritizing tasks based on urgency and importance",
+            "D": "Using time management techniques"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 57,
+        "question": "How can time management help reduce stress?",
+        "options": {
+            "A": "By helping you plan and prioritize tasks",
+            "B": "By increasing workload and deadlines",
+            "C": "By allowing for more breaks and free time",
+            "D": "By creating a sense of urgency and pressure"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 58,
+        "question": "What is the purpose of using time management techniques like the Pareto Principle?",
+        "options": {
+            "A": "To identify the most critical tasks that yield the greatest results",
+            "B": "To focus only on urgent tasks",
+            "C": "To allocate time based on the complexity of tasks",
+            "D": "To achieve 100% productivity"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 59,
+        "question": "How can setting realistic deadlines contribute to time management?",
+        "options": {
+            "A": "It helps create a sense of urgency and accountability",
+            "B": "It ensures tasks are completed as quickly as possible",
+            "C": "It allows for flexibility and avoids any pressure",
+            "D": "It eliminates the need for prioritizing task"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 60,
+        "question": "Which time management technique involves dividing your workday into blocks of time dedicated to specific tasks?",
+        "options": {
+            "A": "Time blocking",
+            "B": "The Pareto Principle",
+            "C": "The ABCD Method",
+            "D": "The Pomodoro Technique"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 61,
+        "question": "Why is it essential to avoid overloading your schedule with too many commitments?",
+        "options": {
+            "A": "It reduces stress and prevents burnout",
+            "B": "It allows for more breaks and free time",
+            "C": "It ensures you complete all tasks on time",
+            "D": "It eliminates the need for prioritizing tasks"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 62,
+        "question": "What is the purpose of the ABCD Method in time management?",
+        "options": {
+            "A": "To categorize tasks based on their urgency and importance",
+            "B": "To prioritize tasks based on complexity",
+            "C": "To eliminate all low-priority tasks",
+            "D": "To ensure all tasks are completed simultaneously"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 63,
+        "question": "How can time management help improve work-life balance?",
+        "options": {
+            "A": "By allowing for more leisure and personal time",
+            "B": "By increasing the number of work hours",
+            "C": "By reducing the number of tasks to complete",
+            "D": "By eliminating the need for prioritizing tasks"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 64,
+        "question": "What is the main benefit of using time management techniques?",
+        "options": {
+            "A": "It increases productivity and efficiency",
+            "B": "It eliminates the need for prioritizing tasks",
+            "C": "It reduces the need to set deadlines",
+            "D": "It helps identify time-wasting activities"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 65,
+        "question": "What is the purpose of setting specific goals in time management?",
+        "options": {
+            "A": "To focus your efforts and prioritize tasks",
+            "B": "To create a never-ending to-do list",
+            "C": "To track your past achievements",
+            "D": "To allocate time for each task"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 66,
+        "question": "How can time management help with meeting deadlines?",
+        "options": {
+            "A": "By creating a sense of urgency and accountability",
+            "B": "By avoiding all commitments",
+            "C": "By setting unrealistic deadlines",
+            "D": "By multitasking on multiple tasks at once"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 67,
+        "question": "Personality disorders (PD) consist of a loosely bound cluster of subtypes. Which of the following common features are evident in PD?",
+        "options": {
+            "A": "All of these",
+            "B": "They are characterized by an enduring pattern of behavior that deviates markedly from expectations within that culture",
+            "C": "They are associated with unusual ways of interpreting events, unpredictable mood swings, or impulsive behavior",
+            "D": "They result in impairments in social and occupational functioning"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 68,
+        "question": "What characterizes the tendency of individuals with narcissistic personality disorder to overestimate their abilities and exaggerate their achievements?",
+        "options": {
+            "A": "A pervasive need for admiration",
+            "B": "An inability to monitor reality",
+            "C": "Impulsive behavior such as drug abuse",
+            "D": "Unusual ideas of reference"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 69,
+        "question": "The impulsive and unpredictable behavior of individuals with Antisocial Personality Disorder is often due to rapid and erratic switching between:",
+        "options": {
+            "A": "Dysfunctional schemas",
+            "B": "Dysfunctional memories",
+            "C": "Dysfunctional hearing",
+            "D": "Dysfunctional balance"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 70,
+        "question": "Research indicates that individuals with Borderline Personality Disorder may have brain abnormalities related to impulsive behavior. Which brain area is commonly associated with this dysfunction?",
+        "options": {
+            "A": "Dopamine",
+            "B": "Circuitry",
+            "C": "Anatomy",
+            "D": "Corpus callosum functioning"
+        },
+        "correct_option": "D"
+    },
+    {
+        "question_no": 71,
+        "question": "The World Health Day is celebrated on ________.",
+        "options": {
+            "A": "7th April",
+            "B": "1st March",
+            "C": "6th October",
+            "D": "10th December"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 72,
+        "question": "Cleanliness, physical exercise, rest and sleep are a part of ________.",
+        "options": {
+            "A": "Personal hygiene",
+            "B": "Hygiene",
+            "C": "Social hygiene",
+            "D": "None of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 73,
+        "question": "Which of the following is an unhealthy habit?",
+        "options": {
+            "A": "Eating without washing one’s hand",
+            "B": "Sharing food",
+            "C": "Bathing twice a day",
+            "D": "Drinking boiled water"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 74,
+        "question": "Which of the following is not a bacterial disease?",
+        "options": {
+            "A": "All of these",
+            "B": "AIDS",
+            "C": "Dengue",
+            "D": "Measles"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 75,
+        "question": "Which of the following diseases is also known as 'Salmonella enterica serotype Typhi'?",
+        "options": {
+            "A": "Typhoid",
+            "B": "Malaria",
+            "C": "Diarrhea",
+            "D": "Yellow fever"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 76,
+        "question": "Which of the following is the main cause of the transmission of the Hepatitis virus?",
+        "options": {
+            "A": "Sharing drug needles",
+            "B": "The bite of a mosquito",
+            "C": "Drinking contaminated water",
+            "D": "All of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 77,
+        "question": "Which of the following statements is true about contamination?",
+        "options": {
+            "A": "Contamination is caused by the entry of germs into drinking water or edible foods.",
+            "B": "Contamination is caused by the entry of germs by an insect bite",
+            "C": "Contamination is caused by the entry of germs by an animal bite",
+            "D": "None of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 78,
+        "question": "Which of the following diseases is not caused by bacteria?",
+        "options": {
+            "A": "Poliomyelitis",
+            "B": "Typhoid",
+            "C": "Tuberculosis",
+            "D": "All of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 79,
+        "question": "The main cause of contagious disease is _________.",
+        "options": {
+            "A": "All of these",
+            "B": "Contaminated Air",
+            "C": "Contaminated Food",
+            "D": "Poor hygienic conditions"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 80,
+        "question": "Which of the following factors is necessary for maintaining good health?",
+        "options": {
+            "A": "All of these",
+            "B": "Vaccination",
+            "C": "Balanced diet",
+            "D": "Personal hygiene"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 81,
+        "question": "Which substance causes increased fat synthesis, dilation of blood vessels, low blood sugar, and stomach inflammation when consumed?",
+        "options": {
+            "A": "Drug addiction and tobacco",
+            "B": "Alcohol",
+            "C": "Tobacco",
+            "D": "Drug addiction"
+        },
+        "correct_option": "B"
+    },
+    {
+        "question_no": 82,
+        "question": "……………. causes tunnel vision",
+        "options": {
+            "A": "Alcohol",
+            "B": "Smoking",
+            "C": "Barbiturates",
+            "D": "Vitamin A deficiency"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 83,
+        "question": "Which of the following, when consumed after drinking alcohol, can lead to death?",
+        "options": {
+            "A": "Barbiturate",
+            "B": "Morphine",
+            "C": "Opium",
+            "D": "All of these"
+        },
+        "correct_option": "D"
+    },
+    {
+        "question_no": 84,
+        "question": "Which drug, when combined with alcohol, causes significant drowsiness but otherwise does not produce a sedative effect?",
+        "options": {
+            "A": "Antihistamine",
+            "B": "Marijuana",
+            "C": "Valium",
+            "D": "Barbiturate"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 85,
+        "question": "Constituent of alcoholic beverage is …………….",
+        "options": {
+            "A": "Ethyl alcohol",
+            "B": "Propyl alcohol",
+            "C": "Methyl alcohol",
+            "D": "Mix of all of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 86,
+        "question": "……………. is a result of the development of fatty liver syndrome.",
+        "options": {
+            "A": "Synthesis of fat from alcohol",
+            "B": "Synthesis of fatty acids, fat and glycerol",
+            "C": "Synthesis of fat from amino acids",
+            "D": "Excessive synthesis of fat from fatty acids"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 87,
+        "question": "……………. the condition caused by alcoholism that results in fatty acid accumulation in the liver.",
+        "options": {
+            "A": "Cirrhosis",
+            "B": "Neuritis",
+            "C": "Gastritis",
+            "D": "Nephritis"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 88,
+        "question": "……………. is a withdrawal symptom associated with alcohol consumption.",
+        "options": {
+            "A": "Nausea and vomiting",
+            "B": "Delirium",
+            "C": "Swollen and patchy face",
+            "D": "All of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 89,
+        "question": "……………. causes the highest accumulation of fat in the liver.",
+        "options": {
+            "A": "Alcohol",
+            "B": "Meat and egg",
+            "C": "Saturated fat",
+            "D": "Starch"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 90,
+        "question": "Which of the following is a consequence of alcohol addiction?",
+        "options": {
+            "A": "Cardiovascular diseases, hypertension and fatty liver syndrome",
+            "B": "Psychosis, hypertension and fatty liver syndrome",
+            "C": "Ulcers, all types of mental illness, vitamin deficiency, cardiovascular diseases",
+            "D": "All of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 91,
+        "question": "One of the most significant contributions of ICT in the field of education…………….",
+        "options": {
+            "A": "Easy access to learning",
+            "B": "Easy access to teaching",
+            "C": "Easy access to workloads",
+            "D": "Easy access to books"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 92,
+        "question": "Which of the following tools is not associated with Information and Communication Technology (ICT)?",
+        "options": {
+            "A": "Laboratories",
+            "B": "Calculation",
+            "C": "Slideshow",
+            "D": "Video"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 93,
+        "question": "To remain competitive in the growing field of ICT, a leader must continuously keep pace with …………….",
+        "options": {
+            "A": "Update technology",
+            "B": "Creation",
+            "C": "Skill",
+            "D": "Knowledge"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 94,
+        "question": "____________ is a form of marketing communication used to inform or persuade an audience to take some action.",
+        "options": {
+            "A": "Advertising",
+            "B": "Viral video",
+            "C": "Mass Media",
+            "D": "Social Networking"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 95,
+        "question": "What does the phrase “information overload” refer to?",
+        "options": {
+            "A": "When our brains try to process more details than we can handle.",
+            "B": "A momentary reaction to breaking news on television or social media",
+            "C": "Having access to various forms of traditional and digital media.",
+            "D": "Hearing something that we don't like the sounds of."
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 96,
+        "question": "What is a common effect of experiencing information overload?",
+        "options": {
+            "A": "Our brains become fatigued and unfocused.",
+            "B": "We withdraw and stop searching for data.",
+            "C": "We only process information facts.",
+            "D": "Our brains speed up and process faster."
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 97,
+        "question": "How have the information age and digital technologies contributed to information overload?",
+        "options": {
+            "A": "We have access to more forms of data than ever before.",
+            "B": "Information overload has limited our ability to find data.",
+            "C": "The information age has stopped all forms of overload.",
+            "D": "Neither has a bearing on information overload."
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 98,
+        "question": "Which of the following is an important factor in substance abuse?",
+        "options": {
+            "A": "Whether the substances are regularly used by other family members",
+            "B": "Whether the family environment is rural or urban",
+            "C": "Whether you are a twin",
+            "D": "Whether you are born in the winter"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 99,
+        "question": "In substance abuse, the term self-medication refers to?",
+        "options": {
+            "A": "Amelioration of psychological distress through substance use",
+            "B": "Doctors prescribing their own drugs",
+            "C": "Motive for using a substance",
+            "D": "Deciding the drug of choice"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 100,
+        "question": "Which of the following is an example of a substance use disorder (SUD)?",
+        "options": {
+            "A": "All of these",
+            "B": "Alcohol related disorders",
+            "C": "Caffeine related disorders",
+            "D": "Inhalant related disorders"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 101,
+        "question": "What is a hobby?",
+        "options": {
+            "A": "Activities which give us fun and joy are hobby.",
+            "B": "Activities which give us fun and gardening is hobby.",
+            "C": "Activities which make us serious about our work",
+            "D": "None of the above"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 102,
+        "question": "Which of the indoor hobby?",
+        "options": {
+            "A": "Reading Books and music.",
+            "B": "Travelling and Reading Books.",
+            "C": "Collecting stamps and swimming.",
+            "D": "Trekking and hiking"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 103,
+        "question": "What is philately?",
+        "options": {
+            "A": "The collecting and study of stamps",
+            "B": "The study of non-collection and postage stamps",
+            "C": "collect and study the ancient coins",
+            "D": "None of the above"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 104,
+        "question": "What is the meaning of active?",
+        "options": {
+            "A": "Happiness",
+            "B": "Arrogance",
+            "C": "Ego",
+            "D": "Evolve"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 105,
+        "question": "Which of the outdoor hobby?",
+        "options": {
+            "A": "Gardening and travelling.",
+            "B": "Philately",
+            "C": "Numismatics",
+            "D": "Cooking"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 106,
+        "question": "What is the synonym word of sporty?",
+        "options": {
+            "A": "Hearty",
+            "B": "Joy",
+            "C": "Leisure",
+            "D": "Sorrow"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 107,
+        "question": "One who collects coins as hobby:",
+        "options": {
+            "A": "Numismatist",
+            "B": "Philatelist",
+            "C": "Ornithologist",
+            "D": "Statistician"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 108,
+        "question": "A person who collects or has a great love of books is known as ________?",
+        "options": {
+            "A": "Bibliophile",
+            "B": "Pluviophile",
+            "C": "Cosmopolitan",
+            "D": "Changeling"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 109,
+        "question": "NUMISMATIST: COINS ::",
+        "options": {
+            "A": "Philatelist: Stamps",
+            "B": "Jeweler : Jewels",
+            "C": "Cartographer: Maps",
+            "D": "Geneticist: Chromosomes"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 110,
+        "question": "A person who pretends to have more knowledge or skill than he really has:",
+        "options": {
+            "A": "Charlatan",
+            "B": "Crook",
+            "C": "Apotheosis",
+            "D": "Renegade"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 111,
+        "question": "A Game, which no one wins called_________?",
+        "options": {
+            "A": "Draw",
+            "B": "Tie",
+            "C": "Loss",
+            "D": "Toss"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 112,
+        "question": "Activities people enjoy doing during their leisure time.",
+        "options": {
+            "A": "Hobbies",
+            "B": "Schools",
+            "C": "Sports",
+            "D": "Friends"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 113,
+        "question": "The state of being pleased or content.",
+        "options": {
+            "A": "Happy",
+            "B": "Indoors",
+            "C": "Outdoors",
+            "D": "Alone"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 114,
+        "question": "The use of skill and imagination to create something.",
+        "options": {
+            "A": "Art",
+            "B": "Music",
+            "C": "Sports",
+            "D": "School"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 115,
+        "question": "Earnest Klein has classified habits into;",
+        "options": {
+            "A": "Intentional and non-intentional habits",
+            "B": "Compulsive and non-compulsive habits",
+            "C": "Primary and secondary habits",
+            "D": "Pressure and non-pressure habits"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 116,
+        "question": "When a person gets hooked on a hobby, he realizes that",
+        "options": {
+            "A": "it has become an integral part of our life",
+            "B": "it has much more benefits than we realized",
+            "C": "it is much more enjoyable to have a hobby",
+            "D": "it is quite essential for us to learn some skills through our hobbies"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 117,
+        "question": "No matter which sort of hobby you are pursuing, be it a craft, sports, puzzles, or skill development, your hobby should be:",
+        "options": {
+            "A": "A diversion and a passion",
+            "B": "Useful for you in the long run",
+            "C": "A skill that improves your present circumstances",
+            "D": "Followed through till the end"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 118,
+        "question": "The journey of experiencing a hobby is quite:",
+        "options": {
+            "A": "Rewarding in itself",
+            "B": "Challenging for a person",
+            "C": "Demanding in itself",
+            "D": "Inspirational for a person"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 119,
+        "question": "Getting a hobby means having a short break from work and doing something you are passionate about which can:",
+        "options": {
+            "A": "Rejuvenate your mind and help prepare you to handle challenges in the future in a better way",
+            "B": "Give you a peace of mind from all the other problems of daily hectic life and make you feel refreshed",
+            "C": "Help you enhance and improve your skills and push you forward on your path to success.",
+            "D": "Make you enjoy and appreciate your life much more as you are happy pursuing what you love"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 120,
+        "question": "Choose an option that is NOT a benefit of having a hobby.",
+        "options": {
+            "A": "Help us to manage our planned time more beneficially",
+            "B": "Provides an opportunity for us to socialize with people",
+            "C": "Gives us an opportunity to enhance our life",
+            "D": "Makes us more confident in ourselves"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 121,
+        "question": "If your hobby gives you .........., then you will be more confident about challenging yourself in your hobby and help you prepare for learning new things at work.",
+        "options": {
+            "A": "A sense of purpose",
+            "B": "Confidence to move forward",
+            "C": "A reason to develop yourself",
+            "D": "Skills that help you in your work"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 122,
+        "question": "Choose the following which is NOT a good habit",
+        "options": {
+            "A": "Put sharp objects into eyes and ears",
+            "B": "Avoid talking or laughing while eating",
+            "C": "Use a hanky while coughing or sneezing",
+            "D": "Cutting nails"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 123,
+        "question": "The primary reason that smoking cigarettes is bad for our health is that cigarette smoke",
+        "options": {
+            "A": "Kills the cilia in the upper respiratory tract",
+            "B": "Inhibits the ability of hemoglobin to carry blood",
+            "C": "Destroys normal lung cells and grows cancer cells",
+            "D": "Weakens muscles participating in breathing"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 124,
+        "question": "We should not ……………. Water",
+        "options": {
+            "A": "Waste",
+            "B": "Store",
+            "C": "Use",
+            "D": "Save"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 125,
+        "question": "We should brush our teeth …………. a day",
+        "options": {
+            "A": "Two times",
+            "B": "Four times",
+            "C": "Five times",
+            "D": "One time"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 126,
+        "question": "We should take a bath",
+        "options": {
+            "A": "Every day",
+            "B": "One day",
+            "C": "Once a week",
+            "D": "Once a month"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 127,
+        "question": "We should keep our books and clothes in their ……………. places.",
+        "options": {
+            "A": "Right",
+            "B": "Dirty",
+            "C": "Wrong",
+            "D": "None of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 128,
+        "question": "We should throw waste into the ………….",
+        "options": {
+            "A": "Dustbin",
+            "B": "Outside",
+            "C": "Room",
+            "D": "Class"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 129,
+        "question": "We should always keep our house and class",
+        "options": {
+            "A": "Clean",
+            "B": "Dirty",
+            "C": "Bad",
+            "D": "All of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 130,
+        "question": "We should share……………things to each other",
+        "options": {
+            "A": "Good",
+            "B": "Bad",
+            "C": "Dirty",
+            "D": "None of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 131,
+        "question": "We should speak …………..to each other",
+        "options": {
+            "A": "Politely",
+            "B": "Rudely",
+            "C": "Badly",
+            "D": "None of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 132,
+        "question": "We should spend time with our",
+        "options": {
+            "A": "All of these",
+            "B": "Grandparents",
+            "C": "Siblings",
+            "D": "Parents"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 133,
+        "question": "We should wash our hands before and after ……………meal",
+        "options": {
+            "A": "Every",
+            "B": "Breakfast",
+            "C": "Lunch",
+            "D": "Dinner"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 134,
+        "question": "We should wear …………….uniform",
+        "options": {
+            "A": "Clean",
+            "B": "Dirty",
+            "C": "Bad",
+            "D": "None of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 135,
+        "question": "We should eat …………food",
+        "options": {
+            "A": "Healthy",
+            "B": "Junk food",
+            "C": "Stale",
+            "D": "Unhealthy"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 136,
+        "question": "We should have less ………..food",
+        "options": {
+            "A": "Junk",
+            "B": "Healthy",
+            "C": "Vegetables",
+            "D": "Fruits"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 137,
+        "question": "We should play and exercise ………….day.",
+        "options": {
+            "A": "Everyday",
+            "B": "One day",
+            "C": "Once a week",
+            "D": "Once a month"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 138,
+        "question": "What benefits are there in eating a balanced diet?",
+        "options": {
+            "A": "All of these",
+            "B": "Good health",
+            "C": "Good mood and energy",
+            "D": "Improved health and reduced illness"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 139,
+        "question": "How many glasses of water should you drink in a day?",
+        "options": {
+            "A": "At least 8 glasses",
+            "B": "More than 12 glasses",
+            "C": "Between 1-3 glasses",
+            "D": "Do not drink water"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 140,
+        "question": "At least how many hours should you sleep each day?",
+        "options": {
+            "A": "8-10",
+            "B": "5-7",
+            "C": "3-5",
+            "D": "1-2"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 141,
+        "question": "Which of the followings activities is considered a healthy habit?",
+        "options": {
+            "A": "Have cereal with milk and fruits for breakfast",
+            "B": "Sleep six hours a day",
+            "C": "Play a videogame every night",
+            "D": "Watching TV all night"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 142,
+        "question": "Which is not a healthy eating practice?",
+        "options": {
+            "A": "Eat more fatty foods",
+            "B": "Eat more fruits and vegetables",
+            "C": "Eat more fiber",
+            "D": "Do not eat in a hurry"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 143,
+        "question": "To prevent diseases you must...",
+        "options": {
+            "A": "Cover your mouth when you cough or sneeze",
+            "B": "Eat pizza everyday",
+            "C": "Use toilet paper",
+            "D": "Sing in the shower"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 144,
+        "question": "Which is the First Meal of the day?",
+        "options": {
+            "A": "Breakfast",
+            "B": "Tea",
+            "C": "Lunch",
+            "D": "Dinner"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 145,
+        "question": "What will happen if you eat junk food?",
+        "options": {
+            "A": "we will see bad things happen to our body",
+            "B": "Eat more fruits and vegetables",
+            "C": "have an healthy habit",
+            "D": "burgers taste better than salad"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 146,
+        "question": "What should you do if you want to be healthy?",
+        "options": {
+            "A": "eat healthy food everyday",
+            "B": "sleep all day",
+            "C": "eat junk food",
+            "D": "Smile"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 147,
+        "question": "Which of the following is a good habit?",
+        "options": {
+            "A": "Washing hand before and after eating food.",
+            "B": "Washing hand before going to toilet.",
+            "C": "Brushing teeth once in week.",
+            "D": "All of these"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 148,
+        "question": "Which of the following activities keeps your bones and muscles strong?",
+        "options": {
+            "A": "Exercise",
+            "B": "Brushing",
+            "C": "Bathing",
+            "D": "Eating"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 149,
+        "question": "While handling electric points, we should touch them with _____.",
+        "options": {
+            "A": "Dry hands",
+            "B": "Wet hands",
+            "C": "Iron rod",
+            "D": "Ice"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 150,
+        "question": "Dia noticed her mother is reading something written on the medicine bottle before giving the medicine to her sick brother. What do you think she was reading?",
+        "options": {
+            "A": "Checking the expiry date of the medicine",
+            "B": "Reading the name of the doctor",
+            "C": "Finding the amount of the medicine",
+            "D": "Checking the colour of the medicine."
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 151,
+        "question": "If a person gets minor cut, first _____ the cut with water, then apply over it.",
+        "options": {
+            "A": "wash, antiseptic",
+            "B": "wash, cold cream",
+            "C": "remove, Band-Aid",
+            "D": "wash, icepack"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 152,
+        "question": "Which of the following is a good habit?",
+        "options": {
+            "A": "Enter into the College bus in a line.",
+            "B": "Getting into a moving college bus.",
+            "C": "Keep your hand outside the moving bus.",
+            "D": "Pushing each other in the moving bus."
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 153,
+        "question": "The word ‘Lexicography’ is associated with which one of the following?",
+        "options": {
+            "A": "Compilation of dictionary",
+            "B": "Ancient remains",
+            "C": "Edicts",
+            "D": "Decorative writing"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 154,
+        "question": "A……………. may be defined as an occupation that requires specialized knowledge and intensive academic preparations and to which entry is regulated by a representative body.",
+        "options": {
+            "A": "Profession",
+            "B": "Hobby",
+            "C": "Passion",
+            "D": "Goal"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 155,
+        "question": "What age group do most people fall into when they are most exposed to peer pressure?",
+        "options": {
+            "A": "Teenager",
+            "B": "Toddler",
+            "C": "Adult",
+            "D": "Elder"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 156,
+        "question": "Give an example of how peer pressure is commonly spread.",
+        "options": {
+            "A": "Verbally and social media",
+            "B": "Verbally",
+            "C": "US Mail service",
+            "D": "Social media"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 157,
+        "question": "Which solution to peer pressure did we propose?",
+        "options": {
+            "A": "Educate people on the consequences",
+            "B": "Outlaw influences",
+            "C": "Remove social media sites",
+            "D": "Therapy"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 158,
+        "question": "Due to peer pressure being a major issue in teens, many _____ have been created.",
+        "options": {
+            "A": "Websites",
+            "B": "Stores",
+            "C": "Classrooms",
+            "D": "Coffee stores"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 159,
+        "question": "If someone repeatedly confronts you, what do you do?",
+        "options": {
+            "A": "Walk away",
+            "B": "Accept",
+            "C": "Fight",
+            "D": "Steal their wallet"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 160,
+        "question": "What is the main difference between implicit peer pressure and explicit peer pressure?",
+        "options": {
+            "A": "Explicit peer pressure is when someone directly, or explicitly, pressures you into doing something while implicit peer pressure doesn’t include someone actually telling you to do something or pressuring you",
+            "B": "Explicit peer pressure only occurs when someone yells at you to do something – all other forms of peer pressure are implicit",
+            "C": "Implicit peer pressure is when you pressure someone to do something, while explicit peer pressure is when another person pressures you to do something",
+            "D": "Implicit peer pressure happens when you pressure yourself to do something, while explicit peer pressure is when someone else pressures you to do something"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 161,
+        "question": "What factor influences implicit peer pressure?",
+        "options": {
+            "A": "Social Influence",
+            "B": "Internal Influence",
+            "C": "Your Mood",
+            "D": "The Weather"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 162,
+        "question": "What is the best way to respond to peer pressure?",
+        "options": {
+            "A": "Be firm in your response and say no that you won’t engage in that activity, and leave if you have to",
+            "B": "Ignore the person pressuring you and give them the silent treatment",
+            "C": "Yell at the person who is peer pressuring you and berate them until they stop",
+            "D": "Succumb to that pressure and do it if it’s not that bad"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 163,
+        "question": "The BEST way to refuse an offer to smoke or do drugs is to __________.",
+        "options": {
+            "A": "firmly say “no”",
+            "B": "yell “NO” and run away as fast as you can",
+            "C": "have friends tell the person that is offering “no”",
+            "D": "say you will do it the next time you are all together"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 164,
+        "question": "The BEST way to avoid negative peer pressure is to ________.",
+        "options": {
+            "A": "hang out with friends that share your values and support you",
+            "B": "hang out with people that have bad reputations",
+            "C": "scream “NO” and run away whenever you feel pressure",
+            "D": "agree with what everyone else wants to do"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 165,
+        "question": "Situations where negative peer pressure is commonly felt include all of the following EXCEPT:",
+        "options": {
+            "A": "studying in a group for a test",
+            "B": "drugs, alcohol, and tobacco use",
+            "C": "truancy and academic dishonesty",
+            "D": "sexual activity"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 166,
+        "question": "Which of the following is NOT a benefit of positive peer pressure?",
+        "options": {
+            "A": "Added stress and pressure",
+            "B": "Encouragement to try new things",
+            "C": "Honest feedback from friends",
+            "D": "Exposure to new things and fun things"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 167,
+        "question": "Peer pressure can influence all of the following EXCEPT:",
+        "options": {
+            "A": "The food we are allergic to",
+            "B": "The clothes we wear",
+            "C": "The music we listen to",
+            "D": "The food we eat"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 168,
+        "question": "Which is an example of peer pressure?",
+        "options": {
+            "A": "A friend wanting you to play even though your doctor advised you to wait",
+            "B": "Assertively saying ‘No’ when someone asks you to drink",
+            "C": "Saying ‘No’ to your relative when they ask you to borrow the car",
+            "D": "Leaving a party when someone brings cigarette"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 169,
+        "question": "The main keys to managing stress are",
+        "options": {
+            "A": "All of these",
+            "B": "Recognizing and understanding the signs of stress",
+            "C": "Identifying sources of stress",
+            "D": "Identifying what we can and can’t control"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 170,
+        "question": "Symptoms such as moodiness, hostility, and fearfulness are signs that stress is affecting the",
+        "options": {
+            "A": "Emotions",
+            "B": "Body",
+            "C": "Mind",
+            "D": "Behavior"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 171,
+        "question": "Which of the following causes stress?",
+        "options": {
+            "A": "All of these",
+            "B": "Illness",
+            "C": "Academic Demands",
+            "D": "Loss of a family member"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 172,
+        "question": "Taking care of and supporting yourself during stressful times includes all of the following except",
+        "options": {
+            "A": "Suppressing true feelings",
+            "B": "Talking with someone about the stress",
+            "C": "Providing some down time for yourself",
+            "D": "Creating an emotional outlet"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 173,
+        "question": "Which of the following are the basic sources of stress",
+        "options": {
+            "A": "All of these",
+            "B": "Social Stressors",
+            "C": "Physiological",
+            "D": "Thoughts"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 174,
+        "question": "Examples of environmental stressors are",
+        "options": {
+            "A": "All of these",
+            "B": "Weather",
+            "C": "Traffic",
+            "D": "Substandard housing"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 175,
+        "question": "Examples of social stressors are",
+        "options": {
+            "A": "All of these",
+            "B": "Financial problems",
+            "C": "Divorce",
+            "D": "Loss of a loved one"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 176,
+        "question": "Examples of physiological stressors are",
+        "options": {
+            "A": "All of these",
+            "B": "Menopause",
+            "C": "Giving birth",
+            "D": "Sleep disturbances"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 177,
+        "question": "The following are the characteristics of Positive Stress",
+        "options": {
+            "A": "All of these",
+            "B": "It improves performance",
+            "C": "It feels exciting",
+            "D": "It motivates"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 178,
+        "question": "The following are the characteristics of Negative Stress",
+        "options": {
+            "A": "All of these",
+            "B": "It causes anxiety",
+            "C": "It feels unpleasant",
+            "D": "It decreases performance"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 179,
+        "question": "Which of the following statements is true",
+        "options": {
+            "A": "Negative stress is perceived within our coping abilities",
+            "B": "Positive stress is short-term",
+            "C": "Negative stress can be short or long-term",
+            "D": "Negative stress can lead to mental as well as physical problems"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 180,
+        "question": "The following are the examples of negative stressors",
+        "options": {
+            "A": "All of these",
+            "B": "Unemployment",
+            "C": "Legal problems",
+            "D": "Divorce"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 181,
+        "question": "The following are the examples of positive stressors",
+        "options": {
+            "A": "All of these",
+            "B": "New job",
+            "C": "Having a child",
+            "D": "Buying a home"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 182,
+        "question": "Which of the following are the physical symptoms of anxiety",
+        "options": {
+            "A": "All of these",
+            "B": "Racing heart",
+            "C": "Sweaty palms",
+            "D": "Flushed cheeks"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 183,
+        "question": "Anxiety can cause the following moods",
+        "options": {
+            "A": "All of these",
+            "B": "Irritable",
+            "C": "Panicky",
+            "D": "Anxious"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 184,
+        "question": "What thoughts come to the mind when you are under negative stress?",
+        "options": {
+            "A": "You think that you cannot cope with the situation",
+            "B": "You think that you can cope with the situation",
+            "C": "You think that everything will get fine eventually",
+            "D": "You think that you will get help immediately"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 185,
+        "question": "The symptoms of stress can be divided into the following categories",
+        "options": {
+            "A": "All of these",
+            "B": "Cognitive",
+            "C": "Emotional",
+            "D": "Physical"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 186,
+        "question": "Which of the following statements is true",
+        "options": {
+            "A": "Moodiness is an emotional symptom of stress",
+            "B": "Moodiness is a cognitive symptom of stress",
+            "C": "Poor judgment is an emotional symptom of stress",
+            "D": "Agitation is cognitive symptom of stress"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 187,
+        "question": "The following are true about the behavioral symptoms of stress",
+        "options": {
+            "A": "All of these",
+            "B": "The subject starts eating more or less",
+            "C": "The subject starts sleeping more or less",
+            "D": "The subject isolates himself/herself from others"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 188,
+        "question": "Aches, shallow breathing and sweating, frequent colds are",
+        "options": {
+            "A": "Physical symptoms of stress",
+            "B": "Behavioral symptoms of stress",
+            "C": "Emotional symptoms of stress",
+            "D": "Cognitive symptoms of stress"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 189,
+        "question": "Who was the first to describe the “flight or fight response”",
+        "options": {
+            "A": "Walter B. Cannon",
+            "B": "Sigmund Freud",
+            "C": "Atkinson Potter",
+            "D": "Mrunal Sengupta"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 190,
+        "question": "....................... is defined as the optimal amount of stress that helps to promote health and growth.",
+        "options": {
+            "A": "Eustress",
+            "B": "Mistress",
+            "C": "Distress",
+            "D": "Neostress"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 191,
+        "question": "What is a characteristic of the accelerated change in the technology landscape?",
+        "options": {
+            "A": "Increased connectivity",
+            "B": "Slower development of technologies",
+            "C": "Reduced innovation speed",
+            "D": "Minimal market competition"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 192,
+        "question": "Which of the following is an example of a disruption caused by technological advancement?",
+        "options": {
+            "A": "Ride-sharing apps replacing taxi services",
+            "B": "Creation of traditional business models",
+            "C": "Longer life cycles of devices",
+            "D": "Increase in face-to-face communication"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 193,
+        "question": "Why do shorter life cycles of technologies lead to increased e-waste?",
+        "options": {
+            "A": "Because frequent upgrades make older devices obsolete",
+            "B": "Because people store old devices for long periods",
+            "C": "Because there is a decrease in the production of electronic devices",
+            "D": "Because technological improvements reduce device functionality"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 194,
+        "question": "What drives high levels of competition in technology markets?",
+        "options": {
+            "A": "Constant innovation by companies",
+            "B": "Reduced consumer demand",
+            "C": "Limited technological innovation",
+            "D": "Longer time between product releases"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 195,
+        "question": "A company plans to release a new smartphone model annually to stay competitive. Which characteristic of the technology landscape does this strategy address?",
+        "options": {
+            "A": "High competition",
+            "B": "Reduced R&D investment",
+            "C": "Increased e-waste",
+            "D": "Longer technology life cycles"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 196,
+        "question": "A new gaming console was recently launched, and its predecessor quickly became obsolete. This is an example of:",
+        "options": {
+            "A": "Frequent upgrades",
+            "B": "Economic pressure",
+            "C": "Increased connectivity",
+            "D": "Job transformation"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 197,
+        "question": "How does the rapid evolution of technology impact job markets?",
+        "options": {
+            "A": "It leads to the creation of new jobs and elimination of old ones",
+            "B": "It limits the demand for innovation",
+            "C": "It stabilizes job roles over time",
+            "D": "It reduces the need for technological education"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 198,
+        "question": "Which of the following best illustrates the impact of consumer demand in a rapidly changing technology landscape?",
+        "options": {
+            "A": "High demand for advanced AI in communication",
+            "B": "Reduction in device costs over time",
+            "C": "Steady demand for older technological devices",
+            "D": "Limited interest in frequent upgrades"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 199,
+        "question": "Which impact of accelerated technological change could most negatively affect the environment?",
+        "options": {
+            "A": "Increased e-waste",
+            "B": "Job transformation",
+            "C": "Increased connectivity",
+            "D": "Economic growth"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 200,
+        "question": "Which of the following strategies is most important for businesses to address shorter technology life cycles?",
+        "options": {
+            "A": "Continuous innovation and product upgrades",
+            "B": "Investing heavily in customer service",
+            "C": "Limiting research and development",
+            "D": "Reducing production to avoid competition"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 201,
+        "question": "Why is it important to keep up with technological advances?",
+        "options": {
+            "A": "To remain competitive in the job market",
+            "B": "To avoid learning new skills",
+            "C": "To increase traditional marketing knowledge",
+            "D": "To maintain job roles without changes"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 202,
+        "question": "Which of the following is an example of career advancement through continuous learning?",
+        "options": {
+            "A": "Acquiring project management skills to qualify for leadership positions",
+            "B": "Avoiding career shifts by staying in one role",
+            "C": "Transitioning to a non-technical role",
+            "D": "Learning a new language for personal satisfaction"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 203,
+        "question": "How does learning digital marketing contribute to economic resilience?",
+        "options": {
+            "A": "It mitigates the risk of job loss due to shifts in traditional marketing",
+            "B": "It helps avoid technological change",
+            "C": "It limits flexibility in changing environments",
+            "D": "It reduces personal growth needs"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 204,
+        "question": "Why is adaptability important in a rapidly changing work environment?",
+        "options": {
+            "A": "To transition between roles or industries when needed",
+            "B": "To specialize in outdated skills",
+            "C": "To stay in a single industry",
+            "D": "To avoid switching roles"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 205,
+        "question": "A marketing professional learns coding to transition into a tech-related role. This is an example of:",
+        "options": {
+            "A": "Adaptability",
+            "B": "Personal growth",
+            "C": "Job security",
+            "D": "Economic resilience"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 206,
+        "question": "A software engineer enrolls in artificial intelligence courses to keep up with industry innovation. This reflects which of the following?",
+        "options": {
+            "A": "Keeping up with technological advances",
+            "B": "Reducing their skill set",
+            "C": "Career stagnation",
+            "D": "Decreasing employability"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 207,
+        "question": "What is the relationship between continuous learning and job security in the context of economic resilience?",
+        "options": {
+            "A": "Continuous learning helps mitigate the risks of job loss due to automation",
+            "B": "Continuous learning focuses only on personal satisfaction",
+            "C": "Continuous learning reduces the need for career advancement",
+            "D": "Continuous learning decreases the ability to adapt to new roles"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 208,
+        "question": "A professional who learns project management skills to qualify for leadership roles is prioritizing:",
+        "options": {
+            "A": "Career advancement",
+            "B": "Economic resilience",
+            "C": "Flexibility in changing environments",
+            "D": "Personal growth"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 209,
+        "question": "Which of the following is the most important reason for continuous learning in an ever-changing job market?",
+        "options": {
+            "A": "To ensure adaptability and job security",
+            "B": "To avoid switching careers",
+            "C": "To increase social interaction",
+            "D": "To limit skill development to one field"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 210,
+        "question": "Learning new skills for self-improvement primarily focuses on:",
+        "options": {
+            "A": "Personal growth",
+            "B": "Career advancement",
+            "C": "Economic resilience",
+            "D": "Avoiding innovation"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 211,
+        "question": "What is the first step in continuous learning?",
+        "options": {
+            "A": "Identify learning goals",
+            "B": "Join professional networks",
+            "C": "Seek feedback from peers",
+            "D": "Apply skills practically"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 212,
+        "question": "Which of the following is an example of utilizing online resources for continuous learning?",
+        "options": {
+            "A": "Taking an online course in machine learning on Coursera",
+            "B": "Joining a mentoring program",
+            "C": "Reading the latest publications on fintech",
+            "D": "Attending a cybersecurity conference"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 213,
+        "question": "Why is setting clear objectives important in continuous learning?",
+        "options": {
+            "A": "To determine which skills are needed and why",
+            "B": "To limit the need for practical application",
+            "C": "To reduce the need for feedback and reflection",
+            "D": "To avoid networking opportunities"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 214,
+        "question": "How can reading books and articles contribute to continuous learning?",
+        "options": {
+            "A": "It keeps individuals updated on the latest trends and developments in their field",
+            "B": "It allows participation in professional workshops",
+            "C": "It helps avoid practical application of skills",
+            "D": "It replaces the need for attending seminars and events"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 215,
+        "question": "A professional joins a LinkedIn group focused on AI and seeks guidance. This is an example of:",
+        "options": {
+            "A": "Joining professional networks",
+            "B": "Practical application",
+            "C": "Utilizing online resources",
+            "D": "Setting learning goals"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 216,
+        "question": "After learning web development, a student creates a website. This is an example of:",
+        "options": {
+            "A": "Hands-on practice",
+            "B": "Identifying learning goals",
+            "C": "Seeking feedback and reflection",
+            "D": "Attending workshops and seminars"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 217,
+        "question": "What is the connection between practical application and continuous improvement in learning?",
+        "options": {
+            "A": "Hands-on practice allows for real-world application, while feedback helps refine and improve skills",
+            "B": "Continuous improvement can replace the need for setting learning goals",
+            "C": "Practical application prevents the need for continuous improvement",
+            "D": "Practical application is unnecessary if feedback is provided"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 218,
+        "question": "Attending a seminar and reading journals demonstrates:",
+        "options": {
+            "A": "Attending workshops and reading books and articles",
+            "B": "Setting learning goals and joining professional networks",
+            "C": "Utilizing online resources and continuous reflection",
+            "D": "Practical application and seeking feedback"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 219,
+        "question": "Which strategy is most effective for keeping up with changes in a technical field?",
+        "options": {
+            "A": "Reading the latest publications and articles",
+            "B": "Setting broad, non-specific learning goals",
+            "C": "Avoiding workshops to focus on independent learning",
+            "D": "Engaging in informal networking"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 220,
+        "question": "A professional who sets clear goals and seeks feedback will:",
+        "options": {
+            "A": "Achieve more targeted and continuous improvement in their skills",
+            "B": "Minimize the need for practical application",
+            "C": "Become over-reliant on online resources",
+            "D": "Avoid professional development events"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 221,
+        "question": "What is teamwork?",
+        "options": {
+            "A": "Collaborative effort to work together towards a common goal",
+            "B": "Independent effort to achieve personal goals",
+            "C": "Avoiding collaboration to work more efficiently",
+            "D": "Sharing only individual successes"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 222,
+        "question": "Which skill is essential for ensuring clear and effective exchange of ideas in a team?",
+        "options": {
+            "A": "Communication",
+            "B": "Conflict resolution",
+            "C": "Listening",
+            "D": "Flexibility"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 223,
+        "question": "Why is listening an important aspect of teamwork?",
+        "options": {
+            "A": "It helps understand and consider others' perspectives and feedback ",
+            "B": "It reduces the number of ideas shared",
+            "C": "It allows arguments to be avoided",
+            "D": "It encourages multitasking"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 224,
+        "question": "How does flexibility contribute to teamwork?",
+        "options": {
+            "A": "By taking on different roles and tasks as needed",
+            "B": "By avoiding changes in the project",
+            "C": "By enforcing a strict division of responsibilities",
+            "D": "By eliminating the need for task division"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 225,
+        "question": "During a brainstorming session, a team member suggests a solution that no one else considered. This is an example of:",
+        "options": {
+            "A": "Innovation",
+            "B": "Conflict resolution",
+            "C": "Communication failure",
+            "D": "Ignoring feedback"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 226,
+        "question": "A project manager divides tasks among team members based on their strengths. This practice improves the team's:",
+        "options": {
+            "A": "Efficiency",
+            "B": "Flexibility",
+            "C": "Networking",
+            "D": "Conflict management"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 227,
+        "question": "What is the relationship between teamwork and networking in the context of career development?",
+        "options": {
+            "A": "Teamwork encourages networking by building professional relationships that expand future opportunities",
+            "B": "Networking allows team members to isolate themselves",
+            "C": "Networking and teamwork are unrelated in career development",
+            "D": "Teamwork hinders the development of professional relationships"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 228,
+        "question": "How can conflict resolution contribute to the success of a team?",
+        "options": {
+            "A": "By constructively addressing disagreements to maintain team harmony",
+            "B": "By promoting open discussions about challenges",
+            "C": "By allowing unresolved conflicts to persist",
+            "D": "By avoiding any communication about disagreements"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 229,
+        "question": "Which skill is most crucial in maintaining effective collaboration within a team that faces frequent changes in roles and tasks?",
+        "options": {
+            "A": "Flexibility",
+            "B": "Innovation",
+            "C": "Conflict resolution",
+            "D": "Networking"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 230,
+        "question": "A team achieves its goal more efficiently through shared knowledge and collaboration rather than individual effort. The following best practices are most important in this scenario:",
+        "options": {
+            "A": "Shared knowledge and pooled efforts lead to more effective goal achievement",
+            "B": "Team members should focus on independent work to increase efficiency",
+            "C": "Collaboration limits the need for communication",
+            "D": "Conflict resolution is unnecessary when collaboration exists"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 231,
+        "question": "Which trait is essential for ensuring that responsibilities are consistently met in a team?",
+        "options": {
+            "A": "Reliability",
+            "B": "Proactivity",
+            "C": "Adaptability",
+            "D": "Respect"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 232,
+        "question": "What does adaptability in teamwork refer to?",
+        "options": {
+            "A": "Being flexible and open to changes",
+            "B": "Taking initiative and offering help",
+            "C": "Acknowledging team members' contributions",
+            "D": "Completing tasks on time"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 233,
+        "question": "Why is respect important in teamwork?",
+        "options": {
+            "A": "It values and appreciates the contributions of others, fostering a positive team environment",
+            "B": "It prevents team members from contributing ideas",
+            "C": "It ensures deadlines are met consistently",
+            "D": "It limits the need for collaboration"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 234,
+        "question": "How does proactivity benefit a team?",
+        "options": {
+            "A": "It encourages taking initiative and offering help to team members without being asked",
+            "B": "It ensures team members focus only on their own tasks",
+            "C": "It limits communication between team members",
+            "D": "It allows team members to wait for instructions before helping others"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 235,
+        "question": "A team member sees that another colleague is struggling to meet a deadline. The team member steps in to help, ensuring the project stays on track. This is an example of:",
+        "options": {
+            "A": "Proactivity",
+            "B": "Adaptability",
+            "C": "Conflict management",
+            "D": "Reliability"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 236,
+        "question": "In a team meeting, one member provides clear and constructive feedback to improve the team's work. This is an example of:",
+        "options": {
+            "A": "Effective communication",
+            "B": "Respect",
+            "C": "Continuous learning",
+            "D": "Collaboration"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 237,
+        "question": "Which two traits or actions combined are likely to prevent delays in a team project?",
+        "options": {
+            "A": "Reliability and proactivity",
+            "B": "Reliability and conflict management",
+            "C": "Collaboration and continuous learning",
+            "D": "Respect and adaptability"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 238,
+        "question": "If a team member listens actively during a disagreement and helps find a compromise, they are demonstrating which teamwork skill?",
+        "options": {
+            "A": "Conflict management",
+            "B": "Proactivity",
+            "C": "Adaptability",
+            "D": "Respect"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 239,
+        "question": "A team member regularly attends workshops to improve their skills, which then helps the team's progress. This establishes:",
+        "options": {
+            "A": "Continuous learning",
+            "B": "Proactivity",
+            "C": "Conflict resolution",
+            "D": "Adaptability"
+        },
+        "correct_option": "A"
+    },
+    {
+        "question_no": 240,
+        "question": "Which combination of traits is most likely to foster a productive team environment where all members feel valued and motivated?",
+        "options": {
+            "A": "Respect and collaboration",
+            "B": "Respect and conflict management",
+            "C": "Reliability and proactivity",
+            "D": "Proactivity and adaptability"
+        },
+        "correct_option": "A"
+    }
+]

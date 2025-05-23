@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import questionsData from "./data/unit1_mcqs.json";
+import questionsData from "./data/lse_mcqs.json";
 import QuestionCard from "./QuestionCard";
 
 
@@ -48,10 +48,11 @@ export default function App() {
     <div className="relative min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 p-4 text-gray-100 font-sans">
       <div className="fixed top-4 right-4 z-50 bg-gray-800 shadow-md rounded-xl px-6 py-4 border border-gray-700 text-right">
         <h2 className="text-xl font-bold text-green-400">Score</h2>
-        <p className="text-md text-white">{score} / {questions.length}</p>
+        <p className="text-md text-white">{score} / {questions.length}
+        </p>
       </div>
 
-      <h1 className="text-4xl font-bold text-center mb-10 drop-shadow-md">🔥 IPR MCQS</h1>
+      <h1 className="text-4xl font-bold text-center mb-10 drop-shadow-md">😸LSE MCQS🐱</h1>
 
       <div className="space-y-8 max-w-3xl mx-auto">
         {questions.map((q) => (
